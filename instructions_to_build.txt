@@ -10,10 +10,8 @@ bundle exec jekyll build
 
 # check the local browser for changes 
 # this is in [gh-pages] branch
-cd _sites
-cp -r ./* ../site/wecan-covidhelp
 
-cd ..
+cp -r ._site/* ../site/wecan-covidhelp
 git add -A 
 git commit -m " changed source files"
 git push origin static 
