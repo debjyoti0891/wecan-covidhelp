@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  Debjyoti Bhattacharjee
+title:  WBCAN
 author:
-  email: debjyoti [dot] bhattacharjee [at] imec [dot] be
-  name: Debjyoti Bhattacharjee
-tagline: Personal website of Dr. Debjyoti Bhattacharjee.  
+  email: 
+  name: WBCAN
+tagline:  West Bengal Covid Aid Network (WBCAN)  
 description: >- 
-  Snapshots of ideas and things that piqued my interest. The website has information primarily focused on my research in emerging technologies, such as analog-in-memory computing, quantum computing alongside computer architecture. 
+  Connecting verified leads with patients in need. The data on this website is crowd-sourced and we try to verify the correctness.  
 
 baseurl: "/wecan-covidhelp" # the subpath of your site, e.g. /blog
 url: "https://debjyoti0891.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -45,13 +45,14 @@ disqus:
   shortname: bdebjyoti
 
 header_pages:
-  - about.markdown
-  - oxygen.markdown
-  - beds.markdown
-  - blood.markdown
-  - food.markdown
+  - contribute.markdown
   - resources.markdown
+  - about.markdown
 
+  # - oxygen.markdown
+  # - beds.markdown
+  # - blood.markdown
+  # - food.markdown  
 scholar:
 
   last_name: Bhattacharjee
@@ -86,7 +87,7 @@ social:
     - https://github.com/debjyoti0891/
     - https://www.instagram.com/debjyoti0891/
 
-logo: /assets/D_old.jpg
+# logo: /assets/D_old.jpg
 webmaster_verifications:
  google: shmIemKrYpRAIcUmw2hZzRij1uySn9s55BGBbLBsOto
  bing: F0966E9DC4FDEE6F087ADCDD6E5F6743
