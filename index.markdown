@@ -16,7 +16,6 @@ Kapeldreef 75,  Leuven 3001, Belgium</span>
 <br>
 Debjyoti Bhattacharjee is a Research and Development engineer at Compute System Architecture unit at <a href="https://www.imec.be/" target="_blank">imec</a>, Leuven. His current work focuses on design space exploration and performance estimation for high performance accelerator architectures for machine learning workloads.  -->
 
-<p align="justify" class="introtext"> The current covid-19 has created demand for medical infrastructure in Kolkata. Our aim to is to bring together Samaritans to gather and verify leads on availability of beds, oxygen cylinders, plasma donors and testing facilities across Bengal and provide them to those in need as soon as possible. Our leads are verified manually by a team of hardworking volunteers. Do contribute verified resource leads with our <a href="{{ "/contribute/" | relative_url }}">form</a>  </p>
 
 
 <div align="center">
@@ -30,3 +29,6 @@ Debjyoti Bhattacharjee is a Research and Development engineer at Compute System 
 <a href="{{ "/ambulance/" | relative_url}}" class="button"><button>Ambulance</button></a>
 </div> 
 </div>
+
+
+

@@ -24,15 +24,14 @@ author:
   name: WBCAN
 tagline:  West Bengal Covid Aid Network (WBCAN)  
 description: >- 
-  Connecting verified leads with patients in need. The data on this website is crowd-sourced and we try to verify the correctness.  
+  Connecting verified resource information with patients in need. 
 
 baseurl: "/wecan-covidhelp" # the subpath of your site, e.g. /blog
 url: "https://debjyoti0891.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
-    instagram: debjyoti0891
-    github:  debjyoti0891
-    linkedin: debjyotibhattacharjee
+    github:  "debjyoti0891/wecan-covidhelp"
+
 
 # Build settings
 theme: minima
@@ -82,12 +81,10 @@ scholar:
 social:
   name: Debjyoti Bhattacharjee
   links:
-    - facebook.com/debjyoti.bhattacharjee1
-    - http://linkedin.com/debjyoti.bhattacharjee
-    - https://github.com/debjyoti0891/
+    - https://github.com/debjyoti0891/wecan-covidhelp
     - https://www.instagram.com/debjyoti0891/
 
-# logo: /assets/D_old.jpg
+logo: /wecan-covidhelp/assets/logo.png
 webmaster_verifications:
  google: shmIemKrYpRAIcUmw2hZzRij1uySn9s55BGBbLBsOto
  bing: F0966E9DC4FDEE6F087ADCDD6E5F6743

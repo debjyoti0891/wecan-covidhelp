@@ -13,6 +13,8 @@ category_desc = OrderedDict({'bed':"Hospital Beds", 'oxygen': "Oxygen supplies",
 short_desc = OrderedDict({'bed':"Hospital Beds",  'oxygen': "Oxygen", 
                 'test': "Covid Test", 'blood': "Blood and Plasma", 'tele': "Doctor", 'food': "Food", 'ambulance': "Ambulance"})
 # decide what are the resources 
+
+    
 resources_all = set()
 for i,row in df.iterrows():
     resources_all.add(str(row['Facility provided']).lower())
@@ -21,11 +23,30 @@ def getString(key, value):
     value = str(value).lower()
     if value == 'na' or value == 'nan' or 'unknown' in value or value == '' or 'not available' in value:
         return ''
-    return  f'<tr><th>{key}</th><th>{value}</th></tr>\n'
+    return  f'<tr><th>{key}</th><th>{str(value).title()}</th></tr>\n'
+
+# def gen_res_page(category, long_desc, short_desc, df, paginate=False):
+
+
+#     if len(df) > 10:
+#         print('paginate {}'.format(category))
+#         avail_dist = []
+        
+#         for dist in df['District']:
+#             avail_dist.add(dist)
+#         dists = list(avail_dist).sort()
+#         for dist in dists:
+#             if 'kolkata' in dist.lower():
+#                 continue 
+#             sub_df = df['District'].str.contains(dist, na=True, case=False)
+            
+#     else:
+#         print(category, len(df)) 
+    
 
 for category in category_desc.keys():
     sub_df = df[df['Facility provided'].str.contains(category, na=False, case=False)]
-    
+    # gen_res_page(category, category_desc[category], short_desc[category], sub_df)
     if category == 'oxygen':
         # decide which districts have them 
         districts = set()
@@ -51,7 +72,7 @@ for category in category_desc.keys():
     req_cols = ['Name of the Organisation/Contact Person ','District','Location','Contact number ','Verification  Status','Verification time','Availability Status']
     for i,row in sub_df.iterrows():
         body = body + '<div class="card">\n'
-        if not ('nan' == str(row[req_cols[0]]).lower() or 'unknown' in str(row[req_cols[0]]).lower()):
+        if not ('nan' == str(row[req_cols[0]]).lower() or 'unknown' in str(row[req_cols[0]]).lower() or "not a" in str(row[req_cols[0]]).lower()):
             body = body + f'<h3>{str(row[req_cols[0]]).title()}</h3>\n\n'
         body = body + '<div class="info"><table>\n'
         if category == 'oxygen':
