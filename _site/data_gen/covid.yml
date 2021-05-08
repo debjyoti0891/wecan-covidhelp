@@ -1,0 +1,4 @@
+name: covid
+channels:
+  - defaults
+prefix: /home/debjyoti0891/software/minicon/envs/covid

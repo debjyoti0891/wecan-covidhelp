@@ -1,16 +1,75 @@
 ,District,Name of the Organisation/Contact Person ,Location,Contact number ,Verification  Status,Verification time,Availability Status
-97,Paschim Medinipur,Akash Rahman,Gobindanagar,7001257016,Verified,4/28/2021 11:36:31,Available
-108,Howrah district,not known,shibpur,9830766739  8910903643  7047528327,Verified,5/2/2021 22:13:30,Available
-92,,Amrito Home Delivery (not Arnab delivery),South Kolkata,9051159815/9051391245,Verified,,Available
-93,,Dolar Ranna Ghor,Phoolbagan,9831830794,Verified,,Available
-94,,Vrinda Patodia,Ballygunje and nearby areas,9433090588,Verified,,Available
-95,,Meals by Mom,Park Street(within 2km radius),7439311158,Verified,,Available
-96,,Bhuri Bhoj,Bali  Belur  Uttarpara,9051831115,Verified,,Available
-98,,Subhadeep Sarkar,Pashkura-1 ,9800982837,Verified,4/28/2021 12:12:05,Available
-100,,Prabir Pike,Khandakhola,8768516858,Verified,4/28/2021 12:13:54,Available
-101,,Manik Mandal,Pashkura,9775507297,Verified,4/28/2021 12:14:36,Available
-102,,Suvendu Samanta,Ghoshpur,9932414398,Verified,4/28/2021 12:15:21,Available
-103,,Meghnath Doloi,Ghoshpur,9002619893,Verified,4/28/2021 12:16:37,Available
-104,,Saiyad Abu,Chaitanyapur,9733102201,Verified,4/28/2021 12:17:29,Available
-105,,Buddhadeb Maiti ,Chaitanyapur,8250335092,Verified,4/28/2021 12:20:42,Available
-107,,Kishore ,Raghunathbari,9564528776,Verified,4/28/2021 12:30:21,Available
+305,South 24 Parganas,Damayanti,Baruipur ,8910060878,Verified,5/7/2021 1:35:59,
+310,Purba Medinipur,Subhadeep Sarkar,Pashkura-1 ,9800982837,Verified,4/28/2021 12:12:05,Available
+311,Purba Medinipur,Sukumar Bera,Keshapat,7602712399,Verified,4/28/2021 12:12:47,Available
+312,Purba Medinipur,Prabir Pike,Khandakhola,8768516858,Verified,4/28/2021 12:13:54,Available
+313,Purba Medinipur,Manik Mandal,Pashkura,9775507297,Verified,4/28/2021 12:14:36,Available
+314,Purba Medinipur,Saiyad Abu,Chaitanyapur,9733102201,Verified,4/28/2021 12:17:29,Available
+315,Purba Medinipur,Buddhadeb Maiti ,Chaitanyapur,8250335092,Verified,4/28/2021 12:20:42,Available
+316,Purba Medinipur,Tathagata,Pashkura,8768851745,Verified,4/28/2021 12:27:32,Available
+306,Purba Bardhaman,Kishore ,Raghunathbari,9564528776,Verified,5/7/2021 1:39:48,Available
+309,Paschim Medinipur,Akash Rahman,Gobindanagar,7001257016,Verified,5/7/2021 1:38:43,Available
+307,Paschim Bardhaman,Puja Bhattad,Durgapur,9933007565,Verified,5/3/2021 12:49:56, 
+308,Paschim Bardhaman,Suvadip,Free meal Durgapur,9800156933,Verified,5/7/2021 1:37:45,
+293,North 24 Parganas,Ra seek,Salt lake  Rajarhat  Newton chinarpark bhangur Laketown ,7980847805,Verified,5/3/2021 12:48:59, 
+295,North 24 Parganas,Maa er heshel,,8013093423,Verified,5/3/2021 12:49:03, 
+296,North 24 Parganas,Suvendu Samanta,Ghoshpur,9932414398,Verified,4/28/2021 12:15:21,Available
+297,North 24 Parganas,Meghnath Doloi,Ghoshpur,9002619893,Verified,4/28/2021 12:16:37,Available
+298,North 24 Parganas,sayani sengupta,salt lake  lake town  rajarhat  kestopur  baguiati  nagerbazar  vip road  bangur,9903583823,Verified,5/3/2021 12:49:11, 
+299,North 24 Parganas,Adrija,Free meal Sodepur to kalyani,6291575300,Verified,5/7/2021 1:41:18,
+300,North 24 Parganas,sejuti,Free meal Halishahar,8617224535,Verified,,
+301,North 24 Parganas,Anushongik / Sanjoy saha,Kankurgachi  salt lake sector 1  Ultadanga  phoolbagan,9051478526,Verified,5/7/2021 1:42:10,
+302,North 24 Parganas,Heshel by red volunteers kamarhati,Kamarhati,9674953080  9674604148,Verified,5/4/2021 16:02:11,
+303,North 24 Parganas,Red volunteers Barrackpore,Barrackpore,8697111856  8777068028,Verified,5/4/2021 16:14:59,
+304,North 24 Parganas,Arijit Mukherjee,Salt lake,89810873761/9831443759/8910840476,Verified,5/7/2021 1:46:55,Available
+249,Kolkata,SEVA FREE FOOD,Ultadanga  salt lake lake town  airport  kakurgachi  phoolbagan  girish park,7044765985  7044765929,Verified,5/5/2021 20:09:49,Available
+250,Kolkata,Sramajibi canteen ,Jadavpur,9674519255,Verified,5/3/2021 12:48:21, 
+251,Kolkata,DietFixx,All over Kolkata ,9830038142,Verified,5/3/2021 12:48:22, 
+253,Kolkata,Depend ablez,All over Kolkata ,9163267000,Verified,5/3/2021 12:48:26, 
+257,Kolkata,Rannaghor,All over Kolkata ,8240109107,Verified,5/3/2021 12:48:36, 
+259,Kolkata,Peerless inn,,9007012906,Verified,5/3/2021 12:48:36, 
+261,Kolkata,Ghar ki rasoi,,9874987724,Verified,5/3/2021 12:48:43, 
+266,Kolkata,Nishat tasmin,Swiggy/uber,8697767907,Verified,5/3/2021 12:48:51, 
+269,Kolkata,Moody foody by ankita,All across Kolkata ,9610096439,Verified,, 
+272,Kolkata,Nanighar,All over Kolkata ,8282828787,Verified,5/7/2021 1:32:11, 
+273,Kolkata,Amrito Home Delivery (not Arnab delivery),South Kolkata,9051159815/9051391245,Verified,,Available
+274,Kolkata,Dolar Ranna Ghor,Phoolbagan,9831830794,Verified,,Available
+275,Kolkata,Vrinda Patodia,Ballygunje and nearby areas,9433090588,Verified,,Available
+276,Kolkata,Meals by Mom,Park Street(within 2km radius),7439311158,Verified,,Available
+277,Kolkata,covid-19 canteen,8B  bijoygarh  pallisree  sree colony  netajinagar  gandhi colony  ranikuthi  baghajatin  garia,7044630806,Verified,5/3/2021 12:49:14, 
+278,Kolkata,kheyeche,south kolkata,9830041714,Verified,, 
+281,Kolkata,Ubuntu the vegan cafe,South Kolkata ( book 24hrs prior ),8861657131,Verified,5/3/2021 12:49:45, 
+283,Kolkata,Asmita,Free meal at Behala  Tollygunge Golf Green lake gardens &jodhpur park,8482055025,Verified,, 
+284,Kolkata,Harsh,Free meal at New Alipore  Chetla  Tollygunge  Kalighat  haridevpur  behala,8697449350,Verified,, 
+285,Kolkata,Shravasti ghosh,Free meal up to 15 north kol,8902703686,Verified,, 
+286,Kolkata,Kerry patta,Free lunch(24 hrs notice),9830706543,Verified,5/3/2021 12:49:57, 
+287,Kolkata,Be-kery,Belghoria to birati,7044077280,Verified,5/3/2021 12:49:55, 
+288,Kolkata,Rakhi Mukherjee,Shyambazar  Baghbazar,9674327763,Verified,,
+289,Kolkata,Free meals,Kolkata,8335088799,Verified,5/7/2021 1:37:15,Available
+290,Kolkata,Home delivery ,Behala  sokherbajar  Haridev pur  Thakurpukur  3A  Tollygunge  chourasta,9674147275  7890044404,Verified,5/7/2021 1:37:29,
+291,Kolkata,,,9874557022  9007316995  8961524938,Verified,5/6/2021 10:22:25,Available
+292,Kolkata,,,9831710175  9007361760,Verified,5/6/2021 10:24:46,Available
+245,Howrah,Anirban das,Free meal salkia,8910775984,Verified,5/7/2021 1:40:32,
+246,Howrah,Bhuribhoj,Howrah bally,9051831115,Verified,5/7/2021 1:40:47, 
+247,Howrah,sinchan,Free meal Shibpur,7980658684,Verified,5/7/2021 1:41:45,
+248,Howrah,not known,shibpur,9830766739  8910903643  7047528327,Verified,5/2/2021 22:13:30,Available
+243,Hooghly,sudipta malakar,Free meal Serampore,9088484812,Verified,5/3/2021 12:49:57,
+244,Hooghly,Bhuri Bhoj,Bali  Belur  Uttarpara,9051831115,Verified,5/7/2021 1:43:51,Available
+252,,Calcutta cooks,All over Kolkata ,8017244299,Verified,5/3/2021 12:48:24, 
+254,,Amrito home delivery ,,9051159815,Verified,, 
+255,,Dolar Rannaghor ,,9831830794,Verified,5/3/2021 12:48:28, 
+256,,Spoon fuel ,,9007760418,Verified,5/3/2021 12:48:35, 
+258,,Mrs kitchen,,8910928400,Verified,5/3/2021 12:48:36, 
+260,,Shivangi roy,,9073329885,Verified,, 
+262,,Vrinda patodia,,9433090588,Verified,, 
+263,,OGS Kitchen ,,8697082035,Verified,5/3/2021 12:48:47, 
+264,,Meals by mom,,7439311158,Verified,, 
+265,,The hungry bear,,9831397018,Verified,5/3/2021 12:48:47, 
+267,,Taaza,,7044169715,Verified,5/3/2021 12:48:52, 
+268,,Granny's kitchen ,Per order,9051661509,Verified,, 
+270,,Arnab home delivery ,,9051159815,Verified,5/3/2021 12:48:53, 
+271,,Ekdalia coccinia,,9123369378,Verified,5/3/2021 12:48:56, 
+279,,mundhra kitchen,,7003752008,Verified,, 
+280,,ranjan's homefood,,8820470143,Verified,5/7/2021 1:33:45, 
+282,,Yours Truly ,,6291180092,Verified,, 
+294,,Calcutta cookbook ,Salt lake ,9051339185,Verified,, 

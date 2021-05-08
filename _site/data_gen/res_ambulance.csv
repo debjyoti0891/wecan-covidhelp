@@ -1,17 +1,23 @@
 ,District,Name of the Organisation/Contact Person ,Location,Contact number ,Verification  Status,Verification time,Availability Status
-48,Purulia district,Vanuas club ,,8967366789,Verified,5/2/2021 17:02:53,Available
-46,Paschim Bardhaman district,Bharat Ambulance,Asansol  Durgapur,9434678387,Verified,29/4 20:00,Available
-47,Paschim Bardhaman district,Ma Ambey Ambulance,Asansol  Durgapur,9775555543,Verified,29/4 20:00,Available
-40,North 24 Parganas district (Uttar 24 Parganas),Poddar Ambulance Service ,Near Bypass Dhaba ,7003456588,Verified,29/4 20:38,Available
-42,North 24 Parganas district (Uttar 24 Parganas),Hindustan Ambulance Services,Ruby,9836909839/ 8420004004,Verified,29/4 20:38,Available
-49,North (Uttar) 24 Parganas district,Sanjib dey,Baranagar aranna cinema hall,9432362856,Verified,5/3/2021 22:21:10,Available
-34,Kolkata district,MAHAYOGI FOUNDATION,Pan-Kolkata,8902377288,Verified,29/4 20.23,Available
-36,Kolkata district,Narayan Ambulance Service,Pan-Kolkata,8240008394  8981252465,Verified,29/4 20:03,Available
-37,Kolkata district,Santu,Pan-Kolkata,9831305502,Verified,29/4 20:04,Available
-35,Kolkata South,Jadavpur Merchants Association,Jadavpur,9830048199  9831298429  2421-5079  2421-8165,Verified,29/4 20:02,Available
-39,Kolkata South,LIFECARE MEDICAL SERVICES,,033-24754628,Verified,29/4 20:20,Available
-41,Kolkata South,Lokenath Ambulance Services,Jadavpur,8013476160,Verified,29/4 20:38,Available
-43,Kolkata South,Bluebells Ambulance Services,Jatin Das Park,9830034475/ 7980636271,Verified,29/4 20:38,Available
-44,Kolkata South,The Golden Hour Ambulance Services,Kalighat,9831444428,Verified,29/4 20:38,Available
-38,Kolkata Central,St. Johns Ambulance (H.Q),,9830023653  033-24863926  033-24761935,Verified,29/4 20:20,Available
-45,Howrah district,Amjad,Kolkata & Howrah,9875686693,Verified,29/4 20:22,Available
+162,Purulia,Vanuas club ,,8967366789,Verified,5/2/2021 17:02:53,Available
+160,Paschim Bardhaman,Bharat Ambulance,Asansol  Durgapur,9434678387,Verified,29/4 20:00,Available
+161,Paschim Bardhaman,Ma Ambey Ambulance,Asansol  Durgapur,9775555543,Verified,29/4 20:00,Available
+154,North 24 Parganas,Poddar Ambulance Service ,Near Bypass Dhaba ,7003456588,Verified,29/4 20:38,Available
+156,North 24 Parganas,Hindustan Ambulance Services,Ruby,9836909839/ 8420004004,Verified,29/4 20:38,Available
+163,North 24 Parganas,Sanjib dey,Baranagar aranna cinema hall,9432362856,Verified,5/3/2021 22:21:10,Available
+170,North 24 Parganas,Sanjib dey,DUNLOP  BARANAGAR,9432362856,Verified,5/2/2021 13:38:30,
+148,Kolkata,MAHAYOGI FOUNDATION,Pan-Kolkata,8902377288,Verified,29/4 20.23,Available
+149,Kolkata,Jadavpur Merchants Association,Jadavpur,9830048199  9831298429  2421-5079  2421-8165,Verified,29/4 20:02,Available
+150,Kolkata,Narayan Ambulance Service,Pan-Kolkata,8240008394  8981252465,Verified,29/4 20:03,Available
+151,Kolkata,Santu,Pan-Kolkata,9831305502,Verified,29/4 20:04,Available
+152,Kolkata,St. Johns Ambulance (H.Q),,9830023653  033-24863926  033-24761935,Verified,29/4 20:20,Available
+153,Kolkata,LIFECARE MEDICAL SERVICES,,033-24754628,Verified,29/4 20:20,Available
+155,Kolkata,Lokenath Ambulance Services,Jadavpur,8013476160,Verified,29/4 20:38,Available
+157,Kolkata,Bluebells Ambulance Services,Jatin Das Park,9830034475/ 7980636271,Verified,29/4 20:38,Available
+158,Kolkata,The Golden Hour Ambulance Services,Kalighat,9831444428,Verified,29/4 20:38,Available
+165,Kolkata,Biswajit mondal,Saltlake,8420958776,Verified,5/5/2021 22:44:38,Available
+166,Kolkata,,,9874404040,Verified,5/6/2021 9:53:57,Available
+167,Kolkata,,,9007774116,Verified,5/6/2021 9:57:43,Available
+168,Kolkata,,,9674000858,Verified,5/6/2021 10:00:13,Available
+169,Kolkata,,,9748463237,Verified,5/6/2021 10:02:02,Available
+159,Howrah,Amjad,Kolkata & Howrah,9875686693,Verified,29/4 20:22,Available

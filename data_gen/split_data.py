@@ -80,7 +80,11 @@ for category in category_desc.keys():
 
         for c in req_cols[1:]:
             if c == 'Contact number ':
-                body = body + f'<tr><th>{c}</th><th><a href="tel:{row[c]}">{row[c]}</a></th></tr>\n'
+                contacts = str(row[c]).split(',')
+                body = body + f'<tr><th>{c}</th><th>'
+                for contact in contacts:
+                    body = body + f'<a href="tel:{contact}">{contact}</a>'
+                body = body + '</th></tr>\n'
             else:
                 body = body + getString(c, row[c]) #f'<tr><th>{c}</th><th>{row[c]}</th></tr>\n'
         body = body + '</table></div></div>\n'
