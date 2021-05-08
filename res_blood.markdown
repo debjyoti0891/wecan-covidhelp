@@ -3,162 +3,31 @@ layout: card
 title: Blood Plasma
 permalink: /blood/
 ---
-<div class="row">
-	<div class="column">
-<div class="card">
-<h3>Medinipur Medical College</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Paschim Medinipur</th></tr>
-<tr><th>Location</th><th>Paschim Medinipur</th></tr>
-<tr><th>Contact number </th><th><a href="tel:032 2222 2400">032 2222 2400</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th> 24.4.2021, 8:41Pm</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Asansol District Hospital</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Paschim Bardhaman</th></tr>
-<tr><th>Location</th><th>Asansol</th></tr>
-<tr><th>Contact number </th><th><a href="tel:034 1230 4040">034 1230 4040</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>24.4.2021, 8:00Pm</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Nitasha Bloodmates (Kolkata)</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata </th></tr>
-<tr><th>Contact number </th><th><a href="tel:8017197476">8017197476</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th> 24.4.2021  At 7:56Pm</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Sumedha
-Bloodmates</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata </th></tr>
-<tr><th>Contact number </th><th><a href="tel:9609572445">9609572445</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>24.04.21 At 7:57 Pm</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Madhu Surana(O Negative)</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata(Near Alipur)</th></tr>
-<tr><th>Contact number </th><th><a href="tel:98745 22022">98745 22022</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>25.4.2021, 11:30 Am</th></tr>
-<tr><th>Availability Status</th><th>Will Be Available Soon</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Atul Surana(B+)</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata(Near Alipur)</th></tr>
-<tr><th>Contact number </th><th><a href="tel:98744 22022">98744 22022</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>25.4.2021, 11:30 Am</th></tr>
-<tr><th>Availability Status</th><th>Will Be Available Soon</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Suman Nathany((A+))</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata</th></tr>
-<tr><th>Contact number </th><th><a href="tel:99030 66616">99030 66616</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Sskm Hospital Blood Bank</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata </th></tr>
-<tr><th>Contact number </th><th><a href="tel:033 2204 1233">033 2204 1233</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>25.4.2021, 10:53Pm</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Calcutta National Medical College Blood Bank</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata </th></tr>
-<tr><th>Contact number </th><th><a href="tel:033 2284 4834">033 2284 4834</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th> 24.4.2021, 8:41Pm</th></tr>
-</table></div></div>
-<div class="card">
-<h3>Bankura Sammilani Medical</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Bankura</th></tr>
-<tr><th>Location</th><th>Bankura</th></tr>
-<tr><th>Contact number </th><th><a href="tel:032 4225 5511">032 4225 5511</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>24.4.2021, 8:42Pm</th></tr>
-</table></div></div>
-<div class="card">
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:7970432644">7970432644</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 15:34:41</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:9830169378">9830169378</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 14:56:23</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:6289230550">6289230550</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 14:56:52</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:8967977137">8967977137</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 14:57:20</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:7001027959">7001027959</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 14:57:50</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:9330636719">9330636719</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 14:58:16</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card">
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:7003871467">7003871467</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 14:58:57</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
+<h3> Available leads: 9</h3><div align="center">
+ <div class="btn-group">
+<a href="{{ "/blood/Alipurduar" | relative_url}}" class="button"><button>Alipurduar</button></a>
+<a href="{{ "/blood/Bankura" | relative_url}}" class="button"><button>Bankura</button></a>
+<a href="{{ "/blood/Birbhum" | relative_url}}" class="button"><button>Birbhum</button></a>
+<a href="{{ "/blood/Cooch-Behar" | relative_url}}" class="button"><button>Cooch Behar</button></a>
+<a href="{{ "/blood/Dakshin-Dinajpur-South-Dinajpur" | relative_url}}" class="button"><button>Dakshin Dinajpur (South Dinajpur)</button></a>
+<a href="{{ "/blood/Darjeeling" | relative_url}}" class="button"><button>Darjeeling</button></a>
+<a href="{{ "/blood/Hooghly" | relative_url}}" class="button"><button>Hooghly</button></a>
+<a href="{{ "/blood/Howrah" | relative_url}}" class="button"><button>Howrah</button></a>
+<a href="{{ "/blood/Jalpaiguri" | relative_url}}" class="button"><button>Jalpaiguri</button></a>
+<a href="{{ "/blood/Jhargram" | relative_url}}" class="button"><button>Jhargram</button></a>
+<a href="{{ "/blood/Kalimpong" | relative_url}}" class="button"><button>Kalimpong</button></a>
+<a href="{{ "/blood/Kolkata" | relative_url}}" class="button"><button>Kolkata</button></a>
+<a href="{{ "/blood/Malda" | relative_url}}" class="button"><button>Malda</button></a>
+<a href="{{ "/blood/Murshidabad" | relative_url}}" class="button"><button>Murshidabad</button></a>
+<a href="{{ "/blood/Nadia" | relative_url}}" class="button"><button>Nadia</button></a>
+<a href="{{ "/blood/North-24-Parganas" | relative_url}}" class="button"><button>North 24 Parganas</button></a>
+<a href="{{ "/blood/Paschim-West-Burdwan-Bardhaman" | relative_url}}" class="button"><button>Paschim (West) Burdwan (Bardhaman)</button></a>
+<a href="{{ "/blood/Paschim-Medinipur-West-Medinipur" | relative_url}}" class="button"><button>Paschim Medinipur (West Medinipur)</button></a>
+<a href="{{ "/blood/Purba-Burdwan-Bardhaman" | relative_url}}" class="button"><button>Purba Burdwan (Bardhaman)</button></a>
+<a href="{{ "/blood/Purba-Medinipur-East-Medinipur" | relative_url}}" class="button"><button>Purba Medinipur (East Medinipur)</button></a>
+<a href="{{ "/blood/Purulia" | relative_url}}" class="button"><button>Purulia</button></a>
+<a href="{{ "/blood/South-24-Parganas" | relative_url}}" class="button"><button>South 24 Parganas</button></a>
+<a href="{{ "/blood/Uttar-Dinajpur-North-Dinajpur" | relative_url}}" class="button"><button>Uttar Dinajpur (North Dinajpur)</button></a>
 </div>
-</div> <br><br>
-<h4> Data updated at: 2021:05:08 11:56:56 IST +0530 </h4>
+</div>
+<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>

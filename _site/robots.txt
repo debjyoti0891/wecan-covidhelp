@@ -1,1 +1,1 @@
-Sitemap: https://debjyoti0891.github.io/wecan-covidhelp/sitemap.xml
+Sitemap: http://localhost:4000/wecan-covidhelp/sitemap.xml
