@@ -26,8 +26,8 @@ tagline:  West Bengal Covid Aid Network (WBCAN)
 description: >- 
   Connecting verified resource information with patients in need. 
 
-baseurl: "/wecan-covidhelp" # the subpath of your site, e.g. /blog
-url: "https://debjyoti0891.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://www.wbcan.org" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
     github:  "debjyoti0891/wecan-covidhelp"
@@ -85,7 +85,7 @@ social:
     - https://github.com/debjyoti0891/wecan-covidhelp
     - https://www.instagram.com/debjyoti0891/
 
-logo: /wecan-covidhelp/assets/logo.png
+logo: /wecan-covidhelp/assets/wbcan-logo.png
 webmaster_verifications:
  google: shmIemKrYpRAIcUmw2hZzRij1uySn9s55BGBbLBsOto
  bing: F0966E9DC4FDEE6F087ADCDD6E5F6743

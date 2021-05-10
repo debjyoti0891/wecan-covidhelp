@@ -1,7 +1,43 @@
 ,District,Name of the Organisation/Contact Person ,Location,Contact number ,Verification  Status,Verification time,Availability Status
-0,Birbhum,N.C.Dutta Memorial Hospital,Rampurhat,9434558088  8967593843,Verified,5/9/2021 12:12:24,Available
-1,Birbhum,Jyoti Nursing Home,Nalhati,9232034121,Verified,5/9/2021 12:14:18,Available
-2,Birbhum,New Apanjan Nursing Home,Rampurhat,9734067125,Verified,5/9/2021 12:14:59,Available
-3,Jalpaiguri,SARI/COVID Hospital,Jalpaiguri,1800313444222  8167880988  8207283307,Verified,5/9/2021 12:36:58,Available
-4,Kolkata,Apex Nursing Home,Shyam Bazar,7595033440,Verified,5/9/2021 12:37:26,Available
-5,Kolkata,AMRI Salt Lake,Salt lake ,033-6606-3800  8444800000  9903025666,Verified,5/9/2021 15:45:16,Available
+0,Birbhum,Bolpur Nursing Home,Bolpur,9434197212,Verified,5/10/2021 12:13:03,Unavailable
+1,Birbhum,Adya Sakti Nursing Home,Bolpur,9434172012,Verified,5/10/2021 12:13:13,Unavailable
+2,Birbhum,New Life Line Nursing Home,Bolpur,9434212863,Verified,5/10/2021 12:13:45,Unavailable
+3,Birbhum,Kirnahar Nursing Home & Poly Clinic,Kirnahar,9635345908,Verified,5/9/2021 12:09:48,Unavailable
+4,Birbhum,N.C.Dutta Memorial Hospital,Rampurhat,9434558088  8967593843,Verified,5/10/2021 13:17:59,Available
+5,Birbhum,Jyoti Nursing Home,Nalhati,9232034121,Verified,5/10/2021 13:20:02,Available
+6,Birbhum,New Apanjan Nursing Home,Rampurhat,9734067125,Verified,5/10/2021 13:20:02,Available
+7,Birbhum,P.M.P Nursing Home ,Nalhati,9734313987,Verified,5/10/2021 13:20:02,Unavailable
+8,Darjeeling,NBMCH 1,Siliguri,1800313444222  03532585478,Verified,5/10/2021 13:21:58,Unavailable
+11,Kolkata,Apex Nursing Home,Shyam Bazar,7595033440,Verified,5/10/2021 12:26:36,Available
+12,Kolkata,Parkview Super Speciality Hospital,Bidhan nagar,7604022150  03340591111,Verified,5/10/2021 12:28:02,Unavailable
+13,Kolkata,Royd Nursing Home,esplanade ,03346016536  03322271666  03333547000,Verified,5/10/2021 12:28:23,Unavailable
+14,Kolkata,Belle Vue Clinic,Elgin Road,03322872322  09836193420,Verified,5/10/2021 12:29:36,Unavailable
+15,Kolkata,Shurusha Nursing Home ,Kankurgachi,9620429063  03323628863  974410298,Verified,5/10/2021 12:32:34,Unavailable
+16,Kolkata,Sana Nursing Home ,Elgin,0332280 8881,Verified,5/10/2021 12:32:46,Unavailable
+17,Kolkata,Peerless Hospital,EM BY Pass,03340111222  03324324989  033401112222,Verified,5/10/2021 14:35:25,Unavailable
+18,Kolkata,Fortis Hospital,E M Bypass,03366284444  9038414433,Verified,5/10/2021 14:46:02,Unavailable
+19,Kolkata,Charring cross,Kankurgachi,033-23598353,Verified,5/10/2021 15:03:10,Unavailable
+20,Kolkata,Daffodil hospital ,Laketown,033-40505555,Verified,5/10/2021 15:03:20,Unavailable
+21,Kolkata,Swastik Seva sadan,Kustia,9831454235,Verified,5/9/2021 15:44:31,Unavailable
+22,Kolkata,AMRI Salt Lake,Salt lake ,033-6606-3800  8444800000  9903025666,Verified,5/10/2021 14:51:53,Unavailable
+23,Kolkata,Columbia Asia Hospital  Salt Lake,Salt Lake,033-6600-3300,Verified,5/9/2021 15:47:33,Unavailable
+24,Kolkata,Marwari Relief Society,Rabindra Sarani,033-2274-3722 (033)22743722  (033)22743725  (033)22744725  9339725243,Verified,5/9/2021 15:49:26,Unavailable
+25,Kolkata,Shushrusha Nursing Home,Kankurgachi,033 2362-8863 / 033 2362-8430 / 9874410298,Verified,5/9/2021 15:49:37,Unavailable
+26,Kolkata,Apollo Gleneagles Hospitals,Kakurgachi,033 2320 2122,Verified,5/10/2021 14:51:28,Unavailable
+27,Kolkata,Sterling Hospital ,Shyam Bazar,(033)25301313,Verified,5/9/2021 16:12:29,Unavailable
+28,Kolkata,AMRI Dhakuria,Dhakuria,033-6680-0000/  033 6626-0000,Verified,5/9/2021 16:15:56,Unavailable
+29,Kolkata,Apex Institute of Medical Science [COVID Suspects],Santoshpur,033-7125-6666,Verified,5/9/2021 16:16:11,Unavailable
+30,Kolkata,Sri Aurobindo Seva Kendra(EEDF),Gariahat ,033 4017 1717,Verified,5/9/2021 16:16:20,Unavailable
+31,Kolkata,TRA General Hospital,Gariahat ,033 4011 6800,Verified,5/9/2021 16:21:13,Unavailable
+32,Kolkata,Dreamland NH,Shyam Bazar,(033)25553217,Verified,5/9/2021 16:45:10,Unavailable
+33,Kolkata,Divine Nursing Home,Beleghata,(033)40156789  7947129470  3323598353,Verified,5/9/2021 16:45:17,Unavailable
+34,Kolkata,Daffodil Hospital ,Laketown,(033)40505555 (033)25345590,Verified,5/9/2021 16:45:24,Unavailable
+35,Paschim Bardhaman,Mission Hopital,Durgapur ,8687500500/9800881600(Emergency),Verified,5/9/2021 16:46:01,Unavailable
+36,South 24 Parganas,Bellona Nursing Home,Diamond Harbour Rd,0332448 7059,Verified,5/9/2021 16:46:41,Unavailable
+37,Kolkata,North City Hospital,ultadanga,9836964496  03366328555,Verified,5/10/2021 14:25:18,Unavailable
+38,Kolkata,R N Tagore International Institute of Cardiac Science,Mukundapur,08067506860  8420000623  9903335544,Verified,5/10/2021 14:27:50,Unavailable
+40,Kolkata,Apex Clinic Private Limited,Behala,033 2406 8071 033 2570 2257,Verified,5/10/2021 14:32:16,Unavailable
+41,Kolkata,M R Bangur Hospital,Tullygunge,88207 02070  7044044363,Verified,5/10/2021 14:43:59,Unavailable
+42,Kolkata,Dafodill hospital ,Laketown,033 4050 5555,Verified,5/10/2021 14:49:54,Unavailable
+43,Kolkata,APEX general hospital ,Joramandir VIP road,033 4022 3200,Verified,5/10/2021 14:52:07,Unavailable
+44,North 24 Parganas,Ujjiban Hospital,Jatragachi Flyover  Newtown  Kolkat,9836949959,Verified,5/10/2021 14:59:07,Available

@@ -4,6 +4,7 @@ import pytz
 from collections import OrderedDict
 import re
 import numpy as np
+import humanize
 
 
 
@@ -49,7 +50,7 @@ def genDistrict(category, category_desc, districts, available_res):
     for dis in districts:
         dis_link = genUrl(dis)
         fin_str = fin_str + '<a href="{{ "/' + category+'/'+ dis_link + '" | relative_url}}" class="button"><button>' + dis +'</button></a>\n'  
-    fin_str = fin_str + '</div>\n</div>\n<h4> Data updated at: {} </h4>'.format(datetime_ist.strftime('%Y:%m:%d %H:%M:%S %Z %z')) 
+    fin_str = fin_str + '</div>\n</div>\n<div class="text_foot"> Data updated at: {} </div>'.format(humanize.naturaldate(datetime_ist)) 
 
     with open('res_'+category+'.markdown', 'w') as f:
         f.write(fin_str) 
@@ -147,7 +148,7 @@ for category in category_desc.keys():
             body = body + '</table></div></div>\n'
 
 
-        footer = '</div>\n</div> <br><br>\n<h4> Data updated at: {} </h4>'.format(datetime_ist.strftime('%Y:%m:%d %H:%M:%S %Z %z'))
+        footer = '</div>\n</div> <br><br>\n<div class="text_foot"> Data updated at: {} </div>'.format(humanize.naturaldate(datetime_ist))
 
         with open('res'+'_'+category+'_'+sel_district+'.markdown', 'w') as f:
             f.write(header+body+footer)
