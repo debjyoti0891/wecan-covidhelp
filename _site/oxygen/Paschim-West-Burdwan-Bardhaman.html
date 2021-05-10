@@ -10,15 +10,15 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Connecting verified resource information with patients in need." />
 <meta property="og:description" content="Connecting verified resource information with patients in need." />
-<link rel="canonical" href="http://localhost:4000/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
-<meta property="og:url" content="http://localhost:4000/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
+<link rel="canonical" href="https://debjyoti0891.github.io/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
+<meta property="og:url" content="https://debjyoti0891.github.io/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
 <meta property="og:site_name" content="WBCAN" />
 <meta name="google-site-verification" content="shmIemKrYpRAIcUmw2hZzRij1uySn9s55BGBbLBsOto" />
 <meta name="msvalidate.01" content="F0966E9DC4FDEE6F087ADCDD6E5F6743" />
 <script type="application/ld+json">
-{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/wecan-covidhelp/wecan-covidhelp/assets/logo.png"},"name":"WBCAN"},"url":"http://localhost:4000/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman","author":{"@type":"Person","name":"WBCAN"},"description":"Connecting verified resource information with patients in need.","headline":"Oxygen supplies","@context":"https://schema.org"}</script>
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://debjyoti0891.github.io/wecan-covidhelp/wecan-covidhelp/assets/logo.png"},"name":"WBCAN"},"url":"https://debjyoti0891.github.io/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman","author":{"@type":"Person","name":"WBCAN"},"description":"Connecting verified resource information with patients in need.","headline":"Oxygen supplies","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/wecan-covidhelp/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/wecan-covidhelp/feed.xml" title="WBCAN" />
+<link rel="stylesheet" href="/wecan-covidhelp/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://debjyoti0891.github.io/wecan-covidhelp/feed.xml" title="WBCAN" />
 
 <style>
   .button0 {
@@ -194,26 +194,24 @@
   }
 }
 
-/* Style the counter cards */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background-color: #ffffff;
-}
+
 
 .card_av {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
   text-align: center;
   background-color: #bdfcd5;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 12px;
 }
 
 .card_nav {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   padding: 16px;
   text-align: center;
   background-color: #e49e9e;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 12px;
 }
 
 .info {
@@ -244,6 +242,118 @@
   background-color: #3e8e41;
 }
 
+
+.cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+/* CRAZY CARDS */ 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.btn {
+  background-color: white;
+  border: 1px solid #cccccc;
+  color: #696969;
+  padding: 0.5rem;
+  text-transform: lowercase;
+}
+.btn--block {
+  display: block;
+  width: 100%;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.cards__item {
+  display: flex;
+  padding: 1rem;
+}
+@media (min-width: 40rem) {
+  .cards__item {
+    width: 50%;
+  }
+}
+@media (min-width: 56rem) {
+  .cards__item {
+    width: 33.3333%;
+  }
+}
+.cardin {
+  background-color: white;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.cardin:hover .card__image {
+  filter: contrast(100%);
+}
+.cardin__content {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 1rem;
+}
+.cardin__image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  filter: contrast(70%);
+  overflow: hidden;
+  position: relative;
+  transition: filter 0.5s cubic-bezier(0.43, 0.41, 0.22, 0.91);
+}
+.cardin__image::before {
+  content: "";
+  display: block;
+  padding-top: 56.25%;
+}
+@media (min-width: 40rem) {
+  .cardin__image::before {
+    padding-top: 66.6%;
+  }
+}
+.cardin__image--flowers {
+  background-image: url(https://unsplash.it/800/600?image=82);
+}
+.cardin__image--river {
+  background-image: url(https://unsplash.it/800/600?image=11);
+}
+.cardin__image--record {
+  background-image: url(https://unsplash.it/800/600?image=39);
+}
+.cardin__image--fence {
+  background-image: url(https://unsplash.it/800/600?image=59);
+}
+.cardin__title {
+  color: #696969;
+  font-size: 1.25rem;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.cardin__text {
+  flex: 1 1 auto;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+}
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -260,13 +370,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Connecting verified resource information with patients in need." />
 <meta property="og:description" content="Connecting verified resource information with patients in need." />
-<link rel="canonical" href="http://localhost:4000/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
-<meta property="og:url" content="http://localhost:4000/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
+<link rel="canonical" href="https://debjyoti0891.github.io/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
+<meta property="og:url" content="https://debjyoti0891.github.io/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman" />
 <meta property="og:site_name" content="WBCAN" />
 <meta name="google-site-verification" content="shmIemKrYpRAIcUmw2hZzRij1uySn9s55BGBbLBsOto" />
 <meta name="msvalidate.01" content="F0966E9DC4FDEE6F087ADCDD6E5F6743" />
 <script type="application/ld+json">
-{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/wecan-covidhelp/wecan-covidhelp/assets/logo.png"},"name":"WBCAN"},"url":"http://localhost:4000/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman","author":{"@type":"Person","name":"WBCAN"},"description":"Connecting verified resource information with patients in need.","headline":"Oxygen supplies","@context":"https://schema.org"}</script>
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://debjyoti0891.github.io/wecan-covidhelp/wecan-covidhelp/assets/logo.png"},"name":"WBCAN"},"url":"https://debjyoti0891.github.io/wecan-covidhelp/oxygen/Paschim-West-Burdwan-Bardhaman","author":{"@type":"Person","name":"WBCAN"},"description":"Connecting verified resource information with patients in need.","headline":"Oxygen supplies","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 </head>
 <body><header class="site-header" style="background-color: #eeeeee;">
@@ -288,6 +398,8 @@
                Contribute
             </a><a class="page-link" href="/wecan-covidhelp/tools/">
                Helplines
+            </a><a class="page-link" href="/wecan-covidhelp/faq/">
+               FAQ
             </a><a class="page-link" href="/wecan-covidhelp/about/">
                About
             </a></div>
@@ -315,26 +427,6 @@
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_nav">
-<h3> Info Missing</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9933714451">9933714451</a><a href="tel: 9635398332"> 9635398332</a><a href="tel: 8910420434"> 8910420434</a><a href="tel: 8910220680"> 8910220680</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 13:51:52</th></tr>
-<tr><th>Availability Status</th><th>Info Missing</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3> Info Missing</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Contact number </th><th><a href="tel:6291413659">6291413659</a><a href="tel: 7063079934"> 7063079934</a><a href="tel: 7980081357"> 7980081357</a><a href="tel: 9163696301"> 9163696301</a><a href="tel: 9933714451"> 9933714451</a><a href="tel: 7063079934"> 7063079934</a><a href="tel:7872920080 ">7872920080 </a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/6/2021 13:51:26</th></tr>
-<tr><th>Availability Status</th><th>Info Missing</th></tr>
-</table></div></div>
-<div class="card_nav">
 <h3>Ghyansham</h3>
 
 <div class="info"><table>
@@ -345,20 +437,10 @@
 <tr><th>Verification time</th><th>5/8/2021 11:35:30</th></tr>
 <tr><th>Availability Status</th><th>Unavailable</th></tr>
 </table></div></div>
-<div class="card_nav">
-<h3>Bittu</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9007882261">9007882261</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 18:27:41</th></tr>
-<tr><th>Availability Status</th><th>Undetermined</th></tr>
-</table></div></div>
 </div>
 </div>
 <p><br /><br /></p>
-<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>
+<h4> Data updated at: 2021:05:09 01:19:40 IST +0530 </h4>
 
   </div>
 

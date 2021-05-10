@@ -6,6 +6,69 @@ permalink: /tele/Howrah
 <div class="row">
 	<div class="column">
 <div class="card_av">
+<h3>Telepathy Telemedicine Support</h3>
+
+<div class="info"><table>
+<tr><th>Contact number </th><th><a href="tel:9477402360">9477402360</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/8/2021 18:57:38</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Telepathy Telemedicine Support</h3>
+
+<div class="info"><table>
+<tr><th>Contact number </th><th><a href="tel:8016332955">8016332955</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/8/2021 18:54:21</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Telepathy Telemedicine Support</h3>
+
+<div class="info"><table>
+<tr><th>Contact number </th><th><a href="tel:9477402361">9477402361</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/8/2021 18:54:21</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Telepathy Telemedicine Support</h3>
+
+<div class="info"><table>
+<tr><th>Contact number </th><th><a href="tel:9932333322">9932333322</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/8/2021 18:50:36</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Telepathy Telemedicine Support</h3>
+
+<div class="info"><table>
+<tr><th>Contact number </th><th><a href="tel:7602562331">7602562331</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/8/2021 18:50:36</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Telepathy Telemedicine Support</h3>
+
+<div class="info"><table>
+<tr><th>Contact number </th><th><a href="tel:9635727331">9635727331</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/8/2021 18:50:27</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Telepathy Telemedicine Support</h3>
+
+<div class="info"><table>
+<tr><th>Contact number </th><th><a href="tel:9153227036">9153227036</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/8/2021 18:50:20</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
 <h3>Lifeline Foundation Kolkata</h3>
 
 <div class="info"><table>
@@ -19,7 +82,7 @@ permalink: /tele/Howrah
 <h3>Mindpeers</h3>
 
 <div class="info"><table>
-<tr><th>Location</th><th>Online</th></tr>
+<tr><th>Location</th><th>Mental Health Tele-Consultation</th></tr>
 <tr><th>Contact number </th><th><a href="tel:9810066307">9810066307</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>5/7/2021 12:21:26</th></tr>
@@ -92,7 +155,6 @@ permalink: /tele/Howrah
 <h3>Dr. Smarajit Banik</h3>
 
 <div class="info"><table>
-<tr><th>Location</th><th> </th></tr>
 <tr><th>Contact number </th><th><a href="tel:9474437444">9474437444</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>5/4/2021 17:29:31</th></tr>
@@ -112,7 +174,6 @@ permalink: /tele/Howrah
 <h3>Dr. Mainak Maitra</h3>
 
 <div class="info"><table>
-<tr><th>Location</th><th> </th></tr>
 <tr><th>Contact number </th><th><a href="tel:8017143345">8017143345</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>5/2/2021 11:12:48</th></tr>
@@ -122,7 +183,6 @@ permalink: /tele/Howrah
 <h3>Dr. Bhatta</h3>
 
 <div class="info"><table>
-<tr><th>Location</th><th> </th></tr>
 <tr><th>Contact number </th><th><a href="tel:9830060266">9830060266</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>5/2/2021 11:12:13</th></tr>
@@ -132,7 +192,6 @@ permalink: /tele/Howrah
 <h3>Dr. Apu Adhikary</h3>
 
 <div class="info"><table>
-<tr><th>Location</th><th> </th></tr>
 <tr><th>Contact number </th><th><a href="tel:7001622991">7001622991</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>5/2/2021 11:12:03</th></tr>
@@ -142,7 +201,6 @@ permalink: /tele/Howrah
 <h3>Dr. Abhijit Ray</h3>
 
 <div class="info"><table>
-<tr><th>Location</th><th> </th></tr>
 <tr><th>Contact number </th><th><a href="tel:9434044005">9434044005</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>5/2/2021 11:12:03</th></tr>
@@ -170,57 +228,11 @@ permalink: /tele/Howrah
 <h3>Dr. Hefjur Rahman</h3>
 
 <div class="info"><table>
-<tr><th>Location</th><th> </th></tr>
 <tr><th>Contact number </th><th><a href="tel:7003952407">7003952407</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>4/26/2021 18:55:35</th></tr>
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
-<div class="card_nav">
-<h3>Amit Ghosh</h3>
-
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:9830053320">9830053320</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/4/2021 22:25:07</th></tr>
-<tr><th>Availability Status</th><th>Info Missing</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Debanjan Roy</h3>
-
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:9932276217">9932276217</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/5/2021 20:41:40</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Sandip Mitra</h3>
-
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:9474468504">9474468504</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/4/2021 21:06:03</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Kajal Krishna Banik</h3>
-
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:9331048886">9331048886</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/4/2021 20:46:09</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Saraswati Datta Bodhak</h3>
-
-<div class="info"><table>
-<tr><th>Contact number </th><th><a href="tel:7980061823">7980061823</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/4/2021 20:32:03</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
 </div>
 </div> <br><br>
-<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>
+<h4> Data updated at: 2021:05:10 11:40:24 IST +0530 </h4>

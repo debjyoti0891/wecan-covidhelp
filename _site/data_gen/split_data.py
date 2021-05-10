@@ -13,11 +13,20 @@ datetime_ist = datetime.now(IST)
 df = pd.read_csv('curr_time.csv', sep='|')
 MISSING_INFO = ' Info Missing'
 df.fillna(MISSING_INFO, inplace=True)
+
 df['Availability Status'] = df['Availability Status'].str.strip()
+for na in ['', 'Undetermined']:
+    df.loc[df['Availability Status']==na] = MISSING_INFO.strip()
+
+df.loc[df['Availability Status']=='Will be available soon'] = 'Available soon' 
+
+
+
+print(set(list(df['Availability Status'] )))
 resource = 'res'
-category_desc = OrderedDict({'bed':"Hospital Beds", 'oxygen': "Oxygen supplies", 'blood': "Blood Plasma", 
-                'test': "Covid Testing",  'tele': "Doctor Tele-consultation",'food': "Food", 'ambulance': "Ambulance",  'tele': "Doctor Tele-consultation", })
-short_desc = OrderedDict({'bed':"Hospital Beds",  'oxygen': "Oxygen", 
+category_desc = OrderedDict({'Admission':"Hospital Beds", 'oxygen': "Oxygen supplies", 'blood': "Blood and Plasma", 
+                'test': "Covid Testing",  'tele': "Doctor Tele-consultation",'food': "Food", 'ambulance': "Ambulance" })
+short_desc = OrderedDict({'Admission':"Hospital Beds",  'oxygen': "Oxygen", 
                 'test': "Covid Test", 'blood': "Blood and Plasma", 'tele': "Doctor", 'food': "Food", 'ambulance': "Ambulance"})
 # decide what are the resources 
 
@@ -35,7 +44,7 @@ def genUrl(entity):
 def genDistrict(category, category_desc, districts, available_res):
     
     fin_str = f"---\nlayout: card\ntitle: {category_desc[category]}\npermalink: /{category}/\n---\n"
-    fin_str = fin_str + f'<h3> Available leads: {available_res}</h3>'
+    # fin_str = fin_str + f'<h3> Available leads: {available_res}</h3>'
     fin_str = fin_str + '<div align="center">\n <div class="btn-group">\n'
     for dis in districts:
         dis_link = genUrl(dis)
@@ -50,7 +59,7 @@ def genDistrict(category, category_desc, districts, available_res):
 
 def getString(key, value):
     value = str(value).lower()
-    if value in ['na', 'nan', 'unknown', 'not known', 'not available', MISSING_INFO.lower()] :
+    if value.strip() in ['na', '', 'nan', 'unknown', 'not known', 'not available', MISSING_INFO.lower().strip()] :
         return ''
     return  f'<tr><th>{key}</th><th>{str(value).title()}</th></tr>\n'
 
@@ -79,14 +88,12 @@ all_districts = ["Alipurduar","Bankura","Birbhum","Cooch Behar","Dakshin Dinajpu
 
 all_districts.sort()
 for category in category_desc.keys():
-    sub_df = df[df['Facility provided'].str.contains(category, na=False, case=False)]
-    # gen_res_page(category, category_desc[category], short_desc[category], sub_df)
-    if category == 'oxygen':
-        # decide which districts have them 
-        districts = set()
-        for v in sub_df['District']:
-            districts.add(v)
-        print(districts)
+    if category == 'blood':
+        cat_str = 'blood|plasma'
+    else:
+        cat_str = category
+    sub_df = df[df['Facility provided'].str.contains(cat_str, case=False)]
+    
         
     
     # print(sub_df.columns)
@@ -122,10 +129,10 @@ for category in category_desc.keys():
                 card_class = 'card_nav'
 
             body = body + f'<div class="{card_class}">\n'
-            if not ('nan' == str(row[req_cols[0]]).lower() or 'unknown' in str(row[req_cols[0]]).lower() or "not a" in str(row[req_cols[0]]).lower()):
+            if  str(row[req_cols[0]]).lower() not in  ['na', 'nan', 'unknown', 'not known', 'not available', MISSING_INFO.lower()]:
                 body = body + f'<h3>{str(row[req_cols[0]]).title()}</h3>\n\n'
             body = body + '<div class="info"><table>\n'
-            if category == 'oxygen':
+            if category in ['oxygen', 'blood']:
                 body = body + f'<tr><th>Resource</th><th>{row["Facility provided"].title()}</th></tr>\n'
 
             for c in req_cols[1:]:

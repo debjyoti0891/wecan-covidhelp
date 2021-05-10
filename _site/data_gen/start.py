@@ -20,8 +20,10 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 
+
 import pandas as pd 
 
+MISSING_INFO = ' Info Missing' # Modify this in the split_data as well
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
@@ -66,7 +68,7 @@ def main():
         header = values[0]
         data = []
         print(f'Header:{len(header)}')
-        max_val = len(header)
+        max_val = len(header)+1
         # for row in values[1:]:
         #     # Print columns A and E, which correspond to indices 0 and 4.
         #     print(f'{row}' )
@@ -77,9 +79,16 @@ def main():
         for row in values:
             if len(row) > max_val:
                 row = row[:max_val] #row + [''] * (max_val - len(row))
+            else: 
+                row = row + [MISSING_INFO]*(max_val - len(row))
+
+            for i,v in enumerate(row):
+                if '\n' in v:
+                    row[i] = " ".join(v.split())
             data.append(row)
         
         df = pd.DataFrame(data[1:], columns = data[0])
+        
         df.to_csv('curr_time.csv', sep='|')
 
 if __name__ == '__main__':

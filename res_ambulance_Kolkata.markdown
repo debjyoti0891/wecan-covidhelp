@@ -6,8 +6,6 @@ permalink: /ambulance/Kolkata
 <div class="row">
 	<div class="column">
 <div class="card_av">
-<h3> Info Missing</h3>
-
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
 <tr><th>Contact number </th><th><a href="tel:9007774116">9007774116</a></th></tr>
@@ -16,8 +14,6 @@ permalink: /ambulance/Kolkata
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3> Info Missing</h3>
-
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
 <tr><th>Contact number </th><th><a href="tel:9874404040">9874404040</a></th></tr>
@@ -26,8 +22,6 @@ permalink: /ambulance/Kolkata
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3> Info Missing</h3>
-
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
 <tr><th>Contact number </th><th><a href="tel:9748463237">9748463237</a></th></tr>
@@ -36,8 +30,6 @@ permalink: /ambulance/Kolkata
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3> Info Missing</h3>
-
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
 <tr><th>Contact number </th><th><a href="tel:9674000858">9674000858</a></th></tr>
@@ -155,4 +147,4 @@ permalink: /ambulance/Kolkata
 </table></div></div>
 </div>
 </div> <br><br>
-<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>
+<h4> Data updated at: 2021:05:10 11:40:24 IST +0530 </h4>

@@ -17,4 +17,4 @@ permalink: /ambulance/Purulia
 </table></div></div>
 </div>
 </div> <br><br>
-<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>
+<h4> Data updated at: 2021:05:10 11:40:24 IST +0530 </h4>

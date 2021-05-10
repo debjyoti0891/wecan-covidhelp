@@ -1,346 +1,162 @@
-|Facility provided|District|Name of the Organisation/Contact Person |Location|Contact number |Verification  Status|Verification time|Availability Status|comments
-0|Hospital Admission|Birbhum|Birbhum Nursing Home|Suri|9434107510|Verified|5/8/2021 10:21:22|Unavailable|No facility available for covid patients
-1|Hospital Admission|Birbhum|Suri Nursing Home & Prasuti Sadn|Suri|9434007677|Verified|5/8/2021 10:21:28|Unavailable|No facility available for covid patients
-2|Hospital Admission|Birbhum|Joy Durga Nursing Home & Diagnostic|Suri|9434007688|Verified|5/8/2021 10:21:47|Unavailable|No facility available for covid patients
-3|Hospital Admission|Birbhum|Sainthia Nursing Home Pvt. Ltd|Sainthia|9434556773|Verified|5/8/2021 10:22:13|Unavailable|No facility available for covid patients
-4|Hospital Admission|Birbhum|Ashirbad Nursing Home|Sainthia|9732060399, 9434558427|Verified|5/8/2021 10:23:15|Unavailable|No facility available for covid patients
-5|Hospital Admission|Birbhum|South view Nursing Home|Sainthia|9474040516, 9434220695|Verified|5/8/2021 10:23:27|Unavailable|
-6|Hospital Admission|Birbhum|Indralike Speciality Centre|Suri|7076119343, 9732028149|Verified|5/8/2021 10:23:51|Unavailable|No facility available for covid patients
-7|Hospital Admission|Birbhum|Birbhum Vivekanada Homoeopathic Medical College & Hospital|Sainthia|9474832425|Verified|5/8/2021 11:48:35|Unavailable|No facility available for covid patients
-8|Hospital Admission|Birbhum|Modern Nursing Home|Sainthia|9434326866|Verified|5/8/2021 11:49:04|Unavailable|Hospital Closed
-9|Hospital Admission|Birbhum|Indian Red Cross Society|Suri|9832260473|Verified|5/8/2021 11:49:55|Unavailable|No facility available for covid patients
-10|Hospital Admission|Birbhum|Deucha Nursing Home|Deucha|9735118349|Verified|5/8/2021 11:50:18|Unavailable|No facility available for covid patients
-11|Hospital Admission|Birbhum|Nibedita Seva Sadan|Bolpur|9153060196|Verified|5/8/2021 11:50:32|Unavailable|No facility available for covid patients
-12|Hospital Admission|Birbhum|Bolpur Nursing Home|Bolpur|9434197212|Verified|5/8/2021 11:50:46|Unavailable|
-13|Hospital Admission|Birbhum|Adya Sakti Nursing Home|Bolpur|9434172012|Verified|5/8/2021 11:51:15|Unavailable|No Doctor available
-14|Hospital Admission|Birbhum|Marti Nursing Home|Bolpur|9800519471|Verified|5/8/2021 11:52:14|Unavailable|No facility available for covid patients
-15|Hospital Admission|Birbhum|Kirnahar Nursing Home & Poly Clinic|Kirnahar|9635345908|Verified|5/8/2021 12:45:25|Unavailable|
-16|Hospital Admission|Birbhum|St. Mary''s Child & Mother Health Care Centre|Bolpur|9832232813|Verified|5/8/2021 12:46:06|Unavailable|No facility available for covid patients
-17|Hospital Admission|Birbhum|N.C.Dutta Memorial Hospital|Rampurhat|9434558088/8967593843|Verified|5/8/2021 12:14:27|Available|6 bed available 
-18|Hospital Admission|Birbhum|Medico Diagnostic Centre & Nursing Home|Rampurhat|7076543534, 9732294520|Verified|5/8/2021 12:47:38|Available|Only for oxygen support
-19|Hospital Admission|Birbhum|Joyti Nursing Home|Nalhati|9232034121|Verified|5/8/2021 13:30:13|Available|Hospital Admission available with oxygen support/ call tomorrow at 9:30
-20|Hospital Admission|Birbhum|Dr. Ajit Kr Nan & Binapani Nan Memorial Nursing Home|Nalhati|9474411224, 9434004708|Verified|5/8/2021 13:30:43|Unavailable|No facility available for covid patients
-21|Hospital Admission|Birbhum|New Apanjan Nursing Home|Rampurhat|9734067125|Verified|5/8/2021 13:30:51|Available|Hospital Admission available with oxygen support
-22|Hospital Admission|Birbhum|Savier Nursing Home|Rampurhat|9734085058|Verified|5/8/2021 13:31:02|Unavailable|No facility availabale for covid patient
-23|Hospital Admission|Birbhum|P.M.P Nursing Home |Nalhati|9734313987|Verified|5/8/2021 13:31:12|Unavailable|
-24|Hospital Admission|Darjeeling|Nivedita Super Speciality Hospital|Pradhan Nagar|0353 251 5111|Verified|5/8/2021 13:32:35|Unavailable|Call later to verify
-25|Hospital Admission|Darjeeling|Medica North Bengal Clinic|Pradhan Nagar|0353 251 8667, 9593800800|Verified|5/8/2021 13:33:06|Unavailable|Call later
-26|Hospital Admission|Darjeeling|Anandolok Medical Centre|Jalpaiguri|9749077467|Verified|5/8/2021 13:33:46|Unavailable|
-27|Hospital Admission|Darjeeling|Manokamna Hospital|Siliguri|9434086154|Verified|5/8/2021 13:33:51|Unavailable|
-28|Hospital Admission|Hooghly|Serampore Sramajibi Hospital||033 26220136, 033 26220137, 9163332929, 8016669006|Verified|5/8/2021 13:24:18|Unavailable|Call after 4 pm to check again
-29|Hospital Admission|Hooghly|ESI Gourhati||033 26335551|Verified|5/8/2021 13:24:42|Undetermined|If insured contact the hospital's emergency desk, not clar what to do if uninsured
-30|Hospital Admission|Howrah|ILS Howrah|Howrah|033-4088-0000|Verified|5/8/2021 13:26:25|Unavailable|
-31|Hospital Admission|Howrah|Tulsiram Lakshmi Devi Jaiswal Hospital|Howrah|6290449155,033 2655 5453, 1800313444222 |Verified|5/8/2021 13:26:40|Available|Available as per government sheet
-32|Hospital Admission|Howrah|Sramajibi Hospital|Belur|033 26541181, 033 26543747|Verified|5/8/2021 13:27:26|Unavailable|No facility available for covid patient
-33|Hospital Admission|Jalpaiguri|SARI/COVID Hospital||1800313444222, 8167880988, 8207283307|Verified|5/8/2021 13:27:51|Available|Available as per government sheet
-34|Hospital Admission|Kolkata|Apex Nursing Home|Shyam Bazar|7595033440|Verified|5/8/2021 13:28:21|Available|Only patient party call with patient details and oxygen saturation level.
-35|Hospital Admission|Kolkata|Northern Light Hospital|Gouri Bari Lane, Manicktala|033 25330019|Verified|5/8/2021 10:01:59|Available|Non Covid Bed available.They want patient party number.
-36|Hospital Admission|Kolkata|Nightingale Hospital|Shakespeare sarani|(033) 22827970, (033)22827969, (033)22827971, (033)22827465, 9874376667|Verified|5/8/2021 10:06:30|Unavailable|
-37|Hospital Admission|Kolkata|Parkview Super Speciality Hospital||7604022150,(033)40591111|Verified|5/8/2021 10:08:08|Unavailable|
-38|Hospital Admission|Kolkata|Royd Nursing Home|esplanade |(033) 4601 6536, (033)22271666, (033)33547000|Verified|5/8/2021 10:09:56|Unavailable|
-39|Hospital Admission|Kolkata|Kothari Medical Centre|Alipore|033-4012-7000|Verified|5/8/2021 10:31:26|Unavailable|They don't give any info.
-40|Hospital Admission|Kolkata|ESI HOSPITAL|New Alipore|90-0703-2832|Verified|5/8/2021 10:35:55|Unavailable|Available in Dumdum Gorabazar (B.P. Poddar Hospital)
-41|Hospital Admission|Kolkata|"
-Sambhu Nath Pandit Hospital "|Elgin Road|033 2302 2820/03322551621/Via Swastha Bhaban|Verified|5/8/2021 10:56:20|Available|As Per Govt.Sheet
-42|Hospital Admission|Kolkata|SVS Marwari Hospital|College Street|033 4023 3030, 98831 22160, 9836584467, (033)30612200|Verified|5/8/2021 11:07:26|Will be available soon|Will be Available Tomorrow at 4 PM
-43|Hospital Admission|Kolkata|Revive Nursing Home|Baguiati|(033)23585735|Verified|5/8/2021 11:25:03|Unavailable|Admission Closed at this moment.
-44|Hospital Admission|Kolkata|J.N.Ray Hospital|Machuabazar, Garpar|9073212223, 9830335219, 033-29852985, 033-23520099 |Verified|5/8/2021 11:35:26|Unavailable|
-45|Hospital Admission|Kolkata|"""Tata Medical Centre
- [Treats COVID positive cancer patients only]"""|New Town|(033)66057000|Verified|5/7/2021 17:05:52|Unavailable|Treats Only Cancer Patients
-46|Hospital Admission|Kolkata|Flemming Hospital|Topsia|99031 86342/033 4068 6161|Verified|5/8/2021 11:49:30|Unavailable|
-47|Hospital Admission|Kolkata|BP Poddar/ ESI Hospital|New Alipore|90-0703-2832/8585035846/Via Swastha Bhaban|Verified|5/8/2021 11:58:44|Unavailable|Bp poddar is accepting only swastho sathi card.. no other medical insurance.. verified couple of days back
-48|Hospital Admission|Kolkata|Health Point Hospital|Prannath Pandit Street|629 220 6001/02, 629 220 6008|Verified|5/8/2021 12:02:36|Unavailable|
-49|Hospital Admission|Kolkata|Swastik Seva sadan||9831454235|Verified|5/8/2021 11:29:15|Unavailable|Asked to contact Tomorrow
-50|Hospital Admission|Kolkata|AMRI Salt Lake|Salt lake |033-6606-3800, 8444800000, 9903025666|Verified|5/8/2021 11:29:15|Available|Not Taking critical care patient, patient party should call.
-51|Hospital Admission|Kolkata|Columbia Asia Hospital, Salt Lake|Salt Lake|033-6600-3300|Verified|5/8/2021 11:29:15|Unavailable|Asked to contact Tomorrow
-52|Hospital Admission|Kolkata|Apollo Gleneagles Hospitals|Kakurgachi|033 2320 2122|Verified|5/8/2021 11:29:15|Unavailable|
-53|Hospital Admission|Kolkata|AMRI Dhakuria||033-6680-0000/  033 6626-0000|Verified|5/8/2021 11:39:19|Unavailable|call after 7pm
-54|Hospital Admission|Kolkata|All Asia Medical Institute|Ballygunge|033-4001-2200|Verified|5/8/2021 11:39:19|Unavailable|
-55|Hospital Admission|Kolkata|Apex Institute of Medical Science [COVID Suspects]|Santoshpur|033-7125-6666|Verified|5/8/2021 11:39:19|Unavailable|Call after 12pm
-56|Hospital Admission|Kolkata|TRA General Hospital|Gariahat |033 4011 6800|Verified|5/8/2021 11:39:19|Unavailable|
-57|Hospital Admission|Kolkata|KPC Hospital|Jadavpur| 033 40449700 /098366 95101|Verified|5/8/2021 11:48:35|Unavailable|Only Female/ admission has to be through sastha bhawan
-58|Hospital Admission|Kolkata|Ram krishna mission seva pratishthan (non Covid)|Kalighat,Hazra|033 2475 3639|Verified|5/8/2021 11:39:19|Unavailable|Non Bed for Covid patient
-59|Hospital Admission|North 24 Parganas|Rameswara NH||(033)23552923|Verified|5/7/2021 12:41:02|Unavailable|
-60|Hospital Admission|North 24 Parganas|Dreamland NH||(033)25553217|Verified|5/7/2021 12:53:38|Unavailable|
-61|Hospital Admission|North 24 Parganas|Divine Nursing Home||(033)40156789, 7947129470, 3323598353|Verified|5/7/2021 12:55:17|Unavailable|
-62|Hospital Admission|Paschim Bardhaman|Mission Hopital|Durgapur |8687500500/9800881600(Emergency)|Verified|5/8/2021 11:10:41|Available|Asking to call  9800881600
-63|Hospital Admission|South 24 Parganas|Bellona Nursing Home|Diamond Harbour Rd|033 2448 7059|Verified|5/7/2021 13:18:42|Unavailable|Call at evening
-64|Hospital Admission|Kolkata|R N Tagore International Institute of Cardiac Science|Mukundapur|"08067506860/ 8420000623/ 9903335544
-"|Verified|5/7/2021 14:03:13|Unavailable|Busy
-65|Hospital Admission|Kolkata|Dafodill hospital ||033 4050 5555|Verified|5/7/2021 14:12:04|Unavailable|
-66|Hospital Admission|Kolkata|Binayak superspeciality hospital|Kalicharan ghosh road|033 66016601|Verified|5/7/2021 15:14:36|Unavailable|
-67|Hospital Beds|Bankura|Madhusudan Gorai|Bankura|8370876506|Verified|5/7/2021 15:15:42|Available|This person could help to get beds.Only sugar patient can be admitted. Decided by doctor. 
-68|Hospital Beds|South 24 Parganas||Behala|9330985565|Verified|5/7/2021 17:09:25|Undetermined|Private Nursing Home
-69|Hospital Beds|Kolkata|Daffodil|Kolkata|3340505555|Verified|5/8/2021 2:12:53|Available|Verified on 7th may
-70|Hospital Beds|Kolkata|ILS dumdum|Dumdum|03340315041/42|Verified|5/8/2021 2:14:05|Available|Verified on 7th may
-71|Hospital Beds|Kolkata|All Asia medical institute|Kolkata|3340012200|Verified|5/8/2021 2:15:34|Available|Verified on 7th may
-72|Hospital Beds|Kolkata|Amri salt Lake|Salt Lake|3366063800|Verified|5/8/2021 2:16:56|Available|2 oxygen support, 1 ventilator
-73|Hospital Beds|Kolkata|Swastic Hospital|Topsia|034 6225 9550,9339005894 |Verified|5/8/2021 11:10:35|Undetermined|
-74|Hospital Beds|Purba Medinipur|Purba Medinipore control Room|Tamluk ( Nimtouri , DM office )|9073939804|Verified|5/8/2021 11:32:02|Available|This is Purba Medinipore. District control room can be used for oxygen, testing, bed purpose
-75|Oxygen |Hooghly|Vishnu priya medical |Banamalipur|9433334365|Verified|5/8/2021 10:43:48|Unavailable|Refilling only
-76|Oxygen|Hooghly|Suvendu Oxygen|Uttarpara-Magra|9830383445|Verified|5/8/2021 10:44:00|Unavailable|
-77|Oxygen|Hooghly|Shome Pharmacy|Sahaganj|9432257213|Verified|5/8/2021 10:45:09|Will be available soon|
-78|Oxygen|Hooghly|Bala Kaku Gas|Rishra|8337073311|Verified|5/8/2021 10:45:26|Unavailable|
-79|Oxygen|Kolkata|Riya Gas Agency ||9832038638|Verified|5/8/2021 10:47:34|Will be available soon|
-80|Oxygen|Kolkata|Not available|Kolkata|7003656667|Verified|5/8/2021 10:47:57|Available|refilling against empty cylinder
-81|Oxygen|Kolkata|Hindustan Gases (Beliaghata)|Beliaghata|9830560234|Verified|5/8/2021 10:50:37|Will be available soon|
-82|Oxygen|Kolkata|Helathy Minds Yoga||7003425147|Verified|5/8/2021 11:25:03|Will be available soon|whatsapp to pre-book-cylinders on rent.Free Home delivery also done
-83|Oxygen|Kolkata|No name|Jadavpur,selimpur, Tollygunge|9830025229|Verified|5/7/2021 11:48:04|Available|REFILLING
-84|Oxygen|Kolkata|Sumit|Gariahat|7866833414|Verified|5/7/2021 11:48:18|Available|Refilling
-85|Oxygen|Kolkata|no name|Jadavpur|9830048199|Verified|5/7/2021 11:48:22|Unavailable|
-86|Oxygen|Kolkata||Jadavpur |918961972733|Verified|5/7/2021 11:49:30|Available|ONLY 10L portable can available
-87|Oxygen|Kolkata||Hazra|916290182746|Verified|5/7/2021 11:49:45|Available|REFILLING
-88|Oxygen|Kolkata|No name. Oxygen refill only|Mukundupur, opposite of R.N.Tagore hospital|7890629585|Verified|5/7/2021 0:51:21|Available|Only refilling available for 6ltr, last checked at 5:29pm 5th may'21
-89|FREE REFILLS AVAILABLE|North 24 Parganas|Riddhi Siddhi Pharmacy|Dumdum|9804230307|Verified|5/7/2021 11:51:51|Available|REFILLING AVAILABLE, submit oxy cylinder within 12pm at 7pm it will be refilled
-90|Oxygen|North 24 Parganas|Pharmaco |Dumdum|9800055678, 7980352250|Verified|5/7/2021 11:51:57|Unavailable|
-91|Oxygen|North 24 Parganas|no name|Dumdum|9433119656|Verified|5/7/2021 11:53:11|Unavailable|
-92|Oxygen|North 24 Parganas|Not available|Dumdum/ Laketown|6289235283|Verified|5/7/2021 11:53:20|Available|REFILLING
-93|Oxygen|North 24 Parganas|Name Unknown|Dumdum|9073562583|Verified|5/7/2021 11:54:17|Unavailable|Refilling only
-94|Oxygen|North 24 Parganas|No name|Maniktala|9830148536|Verified|5/7/2021 11:54:20|Will be available soon|refilling only
-95|Oxygen|North 24 Parganas|Sudip|Khayramari|8918071202|Verified|5/7/2021 11:54:47|Undetermined|
-96|Oxygen|North 24 Parganas|Disha medical |Beri Pachpota |9775232359|Verified|5/7/2021 11:55:53|Unavailable|out of stock
-97|Oxygen|North 24 Parganas|Unknown name|Bongaon|9933152311|Verified|5/7/2021 13:08:05|Unavailable|out of stock      Refiling (10 am - 6pm)
-98|Oxygen|North 24 Parganas|Bhola da|Bongaon|9333931515|Verified|5/7/2021 13:08:11|Unavailable|"
-"
-99|Oxygen|North 24 Parganas|Trilaya medical|Gopalnagar|9733812238|Verified|5/7/2021 13:08:19|Unavailable|cylinder
-100|Oxygen|North 24 Parganas|Sarkar medical |Bongaon |9064542568|Verified|5/7/2021 13:08:36|Unavailable|
-101|Oxygen |North 24 Parganas|Gayitri Medicine |Madhyamgram |9874136943|Verified|5/7/2021 13:09:02|Unavailable|out of stock
-102|Oxygen|North 24 Parganas|Gopikaka|Bisharpara/Michelnagar|9830361704|Verified|5/7/2021 13:09:52|Unavailable|out of stock
-103|Oxygen|North 24 Parganas|Ghyanshyam|Madhyamgram |6290007276|Verified|5/7/2021 13:10:26|Unavailable|out of stock
-104|Oxygen|North 24 Parganas|Not available|Keshtopur|9331030293|Verified|5/7/2021 18:02:33|Unavailable|out of stock
-105|Oxygen|North 24 Parganas|Not available|Karunamoyee|7439977545|Verified|5/7/2021 13:12:13|Unavailable|same as 235
-106|Oxygen|North 24 Parganas|Not available|Baguiati|9831514085|Verified|5/7/2021 13:13:52|Unavailable|
-107|Oxygen|North 24 Parganas||Shyamnagar|6290490078|Verified|5/8/2021 10:52:54|Available|Refilling available
-108|Oxygen|North 24 Parganas|Not known|Dumdum|7003656667|Verified|5/8/2021 10:53:07|Available|Refilling only
-109|Oxygen|North 24 Parganas|tarun sangha club|Birati, opposite nimta thana|8617274695|Verified|5/8/2021 10:53:59|Available|"refilling 
-"
-110|Oxygen|North 24 Parganas|Suman Kundu|Baranagar|7980733913|Verified|5/8/2021 10:54:36|Available|cans only
-111|Oxygen|North 24 Parganas|no name|barasat|8617608842|Verified|5/8/2021 10:55:11|Available|refilling
-112|Oxygen|North 24 Parganas|Unknown|Dum Dum|7003656667|Verified|5/8/2021 10:55:44|Available|Refilling 
-113|Oxygen|South 24 Parganas||Garia|9836656427|Verified|5/8/2021 10:56:58|Available|Refilling and Cylinder
-114|Oxygen|South 24 Parganas|Deep Sundar|Garia|9831143338|Verified|5/8/2021 11:01:58|Unavailable|refilling
-115|Oxygen|South 24 Parganas|Bhadreswar|Sonarpur|7003473393|Verified|5/8/2021 10:58:47|Available|Refilling
-116|Oxygen|Murshidabad|Khudiram pathagar jayanta das|Berhampore|9093221441|Verified|5/8/2021 11:00:36|Unavailable|
-117|Oxygen|Murshidabad|OPD|Murshidabad |7548000177|Verified|5/8/2021 11:00:36|Unavailable|
-118|Oxygen|Murshidabad|Kausar alam|Farakka|9434101716|Verified|5/8/2021 11:00:42|Available|Only Refiling (Rupees 200-300/-)
-119|Oxygen|Paschim Bardhaman|Raju ghosh|Durgapur|7679761578|Verified|5/8/2021 11:28:26|Unavailable|Ambulance 
-120|Oxygen|Paschim Bardhaman| |Benachiti Durgapur|8513814513|Verified|5/8/2021 11:29:15|Unavailable|Not associated with oxygen
-121|Oxygen|Purulia|Jay Jawan club|Purulia|8637376638|Verified|5/8/2021 11:29:15|Unavailable|
-122|Oxygen|Purulia|Joydeep Sinha Vanas|Purulia|9382699290|Verified|5/7/2021 18:18:31|Available|
-123|Oxygen|Purulia|Ram Sao|Location will Be shared by provider|9932220655|Verified|5/7/2021 18:18:53|Available|Refill only
-124|Oxygen|Purulia|Bijoy santikati ||9749387245|Verified|5/5/2021 14:01:49|Unavailable|Not oxygen supplier
-125|Oxygen|Purulia|Biman Goswami |PURULIA Town |8391058036|Verified|5/7/2021 18:20:20|Unavailable|NGO, right now no stock
-126|Oxygen|Purulia||PURULIA, GD Collage More, Ram er Dokan|7001354085|Verified|5/7/2021 18:20:34|Unavailable|Volunteer
-127|Oxygen|Birbhum|Sri Gopal Pharmacy|Bolpur|9800192590|Verified|5/8/2021 11:31:45|Unavailable|
-128|Oxygen|Birbhum|Madrasapalli|Near Jambuni Bus Stand|7584850123|Verified|5/7/2021 18:21:30|Available|refilling 
-129|Oxygen|Birbhum|Rahul||7430903557|Verified|5/7/2021 18:21:46|Available|refilling 
-130|Oxygen|Birbhum|Bolpur Municipality|Bolpur|03463252501, 03463254870|Verified|5/7/2021 18:22:09|Unavailable|
-131|Oxygen|Birbhum|N A|Bolpurer|9434326341|Verified|5/7/2021 18:22:16|Unavailable|
-132|Oxygen|Darjeeling|No name|Siliguri|9635967780|Verified|5/8/2021 11:32:54|Unavailable|Same as Row 222.refiling
-133|Oxygen|Alipurduar|Lions Eye Hospital|Alipurduar|8001720684|Verified|5/8/2021 11:32:55|Unavailable| refil available, bring COVID+ve report
-134|Oxygen|Jalpaiguri|Ankur Das (Green Jalpaiguri)|In and around NJP|8101484889|Verified|5/7/2021 18:23:29|Available|gives free cylinders, currently not available
-135|Oxygen||Axiom devices||9830025229|Verified|5/8/2021 11:34:30|Available|
-136|Oxygen||Ghyansham|Barrackpore|6290007276|Verified|5/8/2021 11:35:30|Unavailable|
-137|Oxygen||Bittu||9007882261|Verified|5/7/2021 18:27:41|Undetermined|Kolkata TV (News Channel)
-138|Oxygen||||9933714451, 9635398332, 8910420434, 8910220680|Verified|5/7/2021 13:51:52||These are scammers. Don't call them.
-139|Oxygen||||6291413659, 7063079934, 7980081357, 9163696301, 9933714451, 7063079934,7872920080 |Verified|5/6/2021 13:51:26||These are scammers. Don't call them.
-140|Oxygen|Kolkata|||#ERROR!|Verified|5/7/2021 14:26:54|Available|NO NUMBER
-141|Oxygen|Kolkata|Sayani|Baghajatin|9748683892|Verified|5/8/2021 11:38:31|Available|Refilling
-142|Oxygen|Kolkata|Oxygen on Wheels||7044041010, 7044041015|Verified|5/8/2021 11:39:55|Available|It can provide oxygen support to a COVID positive patient for 4-5 hours.
-143|Oxygen|North 24 Parganas||Madhyamgram|9804454161|Verified|5/8/2021 11:39:55|Available|
-144|Oxygen|Kolkata|Near beniapukur library||9163607069|Verified|5/8/2021 11:39:55|Unavailable|Oxygen refilling
-145|Oxygen|Purba Medinipur|Government|Tamluk|7364045140|Verified|5/8/2021 11:34:32|Available|This is for oxygen purpose for pubra Medinipore district
-146|Ambulance|Kolkata|MAHAYOGI FOUNDATION|Pan-Kolkata|8902377288|Verified|29/4 20.23|Available|
-147|Ambulance|Kolkata|Jadavpur Merchants Association|Jadavpur|9830048199, 9831298429, 2421-5079, 2421-8165|Verified|29/4 20:02|Available|
-148|Ambulance|Kolkata|Narayan Ambulance Service|Pan-Kolkata|8240008394, 8981252465|Verified|29/4 20:03|Available|
-149|Ambulance|Kolkata|Santu|Pan-Kolkata|9831305502|Verified|29/4 20:04|Available|
-150|Ambulance|Kolkata|St. Johns Ambulance (H.Q)||9830023653, 033-24863926, 033-24761935|Verified|29/4 20:20|Available|
-151|Ambulance|Kolkata|LIFECARE MEDICAL SERVICES||033-24754628|Verified|29/4 20:20|Available|non-covid ambulance
-152|Ambulance|North 24 Parganas|Poddar Ambulance Service |Near Bypass Dhaba |7003456588|Verified|29/4 20:38|Available|
-153|Ambulance|Kolkata|Lokenath Ambulance Services|Jadavpur|8013476160|Verified|29/4 20:38|Available|
-154|Ambulance|North 24 Parganas|Hindustan Ambulance Services|Ruby|9836909839/ 8420004004|Verified|29/4 20:38|Available|
-155|Ambulance|Kolkata|Bluebells Ambulance Services|Jatin Das Park|9830034475/ 7980636271|Verified|29/4 20:38|Available|
-156|Ambulance|Kolkata|The Golden Hour Ambulance Services|Kalighat|9831444428|Verified|29/4 20:38|Available|
-157|Ambulance|Howrah|Amjad|Kolkata & Howrah|9875686693|Verified|29/4 20:22|Available|
-158|Ambulance|Paschim Bardhaman|Bharat Ambulance|Asansol, Durgapur|9434678387|Verified|29/4 20:00|Available|
-159|Ambulance|Paschim Bardhaman|Ma Ambey Ambulance|Asansol, Durgapur|9775555543|Verified|29/4 20:00|Available|
-160|Ambulance|Purulia|Vanuas club ||8967366789|Verified|5/2/2021 17:02:53|Available|Only Ambulance 
-161|Ambulance|North 24 Parganas|Sanjib dey|Baranagar aranna cinema hall|9432362856|Verified|5/3/2021 22:21:10|Available|
-162||Kolkata|CITU app Cab|Kolkata|09748463237|Verified|5/4/2021 12:41:32|Unavailable|They only help in transport to get covid and non covid patient to hospitals and they can deliver medicine - online payment required and prescription has to be Whatsapped 
-163|Ambulance|Kolkata|Biswajit mondal|Saltlake|8420958776|Verified|5/5/2021 22:44:38|Available|Available in whole kolkata
-164|Ambulance|Kolkata|||9874404040|Verified|5/6/2021 9:53:57|Available|Not exactly ambulance. They provide car services. Do not provide ventilation.
-165|Ambulance|Kolkata|||9007774116|Verified|5/6/2021 9:57:43|Available|Taxi service. Not ambulance. Ventilation not available.
-166|Ambulance|Kolkata|||9674000858|Verified|5/6/2021 10:00:13|Available|Taxi services only. Not ambulance. No ventilation.
-167|Ambulance|Kolkata|||9748463237|Verified|5/6/2021 10:02:02|Available|Taxi service. Not ambulance. No ventilation.
-168|Ambulance with oxygen|North 24 Parganas|Sanjib dey|DUNLOP, BARANAGAR|9432362856|Verified|5/2/2021 13:38:30||ambulance with oxygen 24*7
-169|Plasma |Kolkata|Prateek Jain (Kolkata)|Kolkata |9903699009|Verified|24.04.21 at 7:52 pm|Available|
-170|Blood|Kolkata|Nitasha Bloodmates (Kolkata)|Kolkata |8017197476|Verified| 24.4.2021  at 7:56pm|Available|
-171|Blood|Kolkata|"Sumedha
-Bloodmates"|Kolkata |9609572445|Verified|24.04.21 at 7:57 pm|Available|
-172|Plasma |Kolkata|Arpita|Kolkata |7044517443|Verified| 24.4.2021, 8:43pm||
-173|Plasma |Kolkata|Jhelum Roy A+ve|Kolkata |9433731206|Verified| 24.4.2021, 2:50PM|Available|Available from first week of May
-174|Plasma |Kolkata|Dwaipayan B+ve|Kolkata |9674556147|Verified|24.04.2021. 8:43pm|Available|
-175|Blood/Plasma|Kolkata|Madhu Surana(O negative)|Kolkata(near Alipur)|98745 22022|Verified|25.4.2021, 11:30 am|Will be available soon|Available from 9th May
-176|Blood/Plasma|Kolkata|Atul Surana(B+)|Kolkata(near Alipur)|98744 22022|Verified|25.4.2021, 11:30 am|Will be available soon|Available from 9th May
-177|Blood/Plasma|Kolkata|Suman Nathany((A+))|Kolkata|99030 66616|Verified|||Donated Already 
-178|Plasma|Kolkata|Vivekanand|Kolkata|90078 39928 |Verified|25.4.2021, 11:30 am||Available as they are organization to collect Plasma. Whatsapp them with Patient details
-179|Blood/Plasma|Kolkata|SSKM Hospital Blood Bank|Kolkata |033 2204 1233|Verified|25.4.2021, 10:53pm|Unavailable|
-180|Blood/Plasma|Kolkata|Calcutta National Medical College Blood Bank|Kolkata |033 2284 4834|Verified| 24.4.2021, 8:41pm||
-181|Blood/Plasma|Paschim Bardhaman|Asansol District Hospital|Asansol|034 1230 4040|Verified|24.4.2021, 8:00pm||
-182|Blood/Plasma|Paschim Medinipur|Medinipur Medical College|Paschim Medinipur|032 2222 2400|Verified| 24.4.2021, 8:41pm||
-183|Blood/Plasma|Bankura|Bankura Sammilani Medical|Bankura|032 4225 5511|Verified|24.4.2021, 8:42pm||
-184|Blood||||7970432644|Verified|5/7/2021 15:34:41|Available|
-185|Blood||||9830169378|Verified|5/7/2021 14:56:23|Available|
-186|Blood||||6289230550|Verified|5/7/2021 14:56:52|Available|
-187|Blood||||8967977137|Verified|5/7/2021 14:57:20|Available|
-188|Blood||||7001027959|Verified|5/7/2021 14:57:50|Available|
-189|Blood||||9330636719|Verified|5/7/2021 14:58:16|Available|
-190|Blood||||7003871467|Verified|5/7/2021 14:58:57|Available|
-191|Covid Tests|Kolkata Central|"Nightingale diagnostic and
-Medicare centre pvt.Ltd (department
-Of laboratory services)
-"|Kolkata|033-35005949 , 9674758055|Verified|29/04. 20:45|Available|Walk in and home collection available 
-192|Covid Tests|Kolkata|Probe Diagnostics Pvt. Ltd.|Kolkata|9073930358|Verified||Will be available soon|Temporarily closed for a few days
-193|Covid Tests|Kolkata|Repromed Diagnostic Private Limited|PARK CIRCUS BESIDE DON BOSCO-JINDAL TOWERS|9831186463|Verified|29/04. 20:45|Available|WALK IN ONLY. FEW NUMBERS. SAME DAY REPORT
-194|Covid Tests|Kolkata|HEALTH-ETC|BAGUIATI|6289705441|Verified|29/04. 20:45|Available|HOME COLLECTION
-195|Covid Tests|North 24 Parganas|"GCC DNA Diagnostic Lab- Unit of GCC
-Biotech (India) PVT. LTD., Bishnupur"|bakrahat|7596050680|Verified|29/04. 20:45|Available|WALK-IN. RESULTS IN 48HRS
-196|Covid Tests|North 24 Parganas|Sagore Dutta Medical College and Hospital, Kamarhati, Ayan|barrakpore,Madhyamgram,Sodpur,Dunlop area|7003937644|Verified|29/04. 20:45|Unavailable|
-197|Covid Tests|Kolkata|Netaji Subhas Chandra Bose Medical Centre |Park Street|022-291049|Verified|29/04. 20:45|Available|Walk in pre booking required
-198|Covid Tests|North 24 Parganas|Unipath lab ,salt lake sector 1, kolkata, Nabo Kumar|In and Around Kolkata|9051621594/9016128664|Verified|29/04. 20:45|Available|Home collection Done. RESULT IN 48-72HRS
-199|Covid Tests|North 24 Parganas|medica superspecialty hospital, kolkata|bypass|9073329065, 9007002626|Verified|29/04. 20:45|Available|WALK-IN ONLY, HOME COLLECTION
-200|Covid Tests|Kolkata|"Jagannath Gupta Institute of Medical
-Sciences & Hospital, Kolkata"||"033-66112222
-9903396230"|Verified|29/04. 20:45|Available|WALK IN ONLY 10am to 5pm, reports in 48hrs.
-201|Covid Tests|Kolkata|"Laboratory Services, Peerless Hospitex
-Hospital and Research Center Limited,
-Kolkata "||033-4011 1222|Verified|29/04. 20:45|Available|Walk-in only. Reach by 6am to collect token. Registration opens at 8am. Results in 12hrs if positive, otherwise 24hrs
-202|Covid Tests|Kolkata|Metropolis Healthcare Limited, Kolkata ||8422801801|Verified|29/04. 20:45|Will be available soon|booked till 30th
-203|Covid Tests|Kolkata|"Molecular Diagnostics Laboratory,
-Saroj Gupta Cancer Centre and
-Research Institute, Kolkata "||9136853880|Verified|29/04. 20:45|Available|no home collection
-204|Covid Tests|Kolkata|"NARAYAN MEMORIAL HOSPITAL
-MOLECULRA LAB, Kolkata "||9830268604|Verified|29/04. 20:45||no home collection
-205|Covid Tests|Paschim Bardhaman|"Molecular Biology Laboratory, Gouri
-Devi Institute of Medical Sciences and
-Hospital, Durgapur "|Durgapur|"8001113333,
-7063259799 "|Verified|29/04. 20:45|Available|Walk in and home collection available
-206|Covid Tests|Paschim Bardhaman|"The Mission Hospital (A Unit of
-Durgapur Medical Centre Pvt. Ltd.),
-Durgapur "|Durgapur|0343-6615555 |Verified|29/04. 20:45|Available|8am onwards
-207|Covid Tests|Paschim Medinipur|"Spandan Diagnostic Centre Pvt Ltd,
-Midnapore "|Medinipur |7001748105|Verified|29/04. 20:45|Available|starts from 7am
-208|Covid Tests|Kolkata|Pulse Diagnostics Pvt.Ltd., Kolkata |Lansdowne|033-7198 1800 |Verified|29/04. 20:45|Available|
-209|Covid Tests|Kolkata|"R B DIAGNOSTIC PRIVATE LIMITED,
-Kolkata"||"033-4085 4085
-033-3382 3382"|Verified|29/04. 20:45|Unavailable|center closed temporarily
-210|Covid Tests|Cooch Behar|"Dr.P.K.Saha hospital pvt. Ltd.-
-Pathological laboratory unit
-"|Coochbehar|"7602942094, 
-9564066695"|Verified||Available|
-211|Covid Tests|Hooghly|Antara Diagnostic, Amar|Baidyabti -Chandannagar-Bandel|9830914913|Verified|29/04. 20:45|Will be available soon|No kit available. after 2nd may
-212|Covid Tests|Hooghly|Sahini Covid testing|Srirampur-Magra|9051292025|Verified|29/04. 20:45|Available|Home collecion only 
-213|Covid Tests|Howrah|"Sanjiban hospital (a unit of
-Chikitsabrati udyog), department
-Of laboratory services, howrah "|Howrah|9748464885|Verified|29/04. 20:45|Available|
-214|Covid Tests|Howrah|SRL Saikat|Liluah, Bally, Belur, Uttarpara, Ghoshpara, Hindmotor|9831002542|Verified|29/04. 20:45|Will be available soon|Sampling collection starts from Tuesday
-215|Covid Testing|Kolkata|not known|ultodanga|8777454915|Verified|5/2/2021 19:06:13|Available|collection will be done tomorrow 
-216|Covid Testing|Kolkata|Subrata Gupta|Kolkata|9007821666|Verified|5/5/2021 18:43:02|Available|
-217|Doctor Doctor Tele-consultation||Dr. Rahul Sarkar|Kaikhali|9830994090|Verified|5/2/2021 11:11:47|Available|ENT Specialist. Can mention Dr. Monali Sengupta's reference
-218|Doctor Doctor Tele-consultation||Dr. Smarajit Banik| |9474437444|Verified|5/4/2021 17:29:31|Available|North Bengal Medical College Consultation time:10AM-1PM
-219|Doctor Doctor Tele-consultation||Dr. Apu Adhikary| |7001622991|Verified|5/2/2021 11:12:03|Available|Specialisation: Medicine Consultation time:10AM-1PM: 21:00-22:00
-220|Doctor Doctor Tele-consultation||Dr. Abhijit Ray| |9434044005|Verified|5/2/2021 11:12:03|Available|Specialisation: General Physician, Consultation time:10AM-1PM18:00-19:00
-221|Doctor Doctor Tele-consultation||Dr. Bhatta| |9830060266|Verified|5/2/2021 11:12:13|Available|Specialisation: Chest Medicine
-222|Doctor Doctor Tele-consultation||Dr. Hefjur Rahman| |7003952407|Verified|4/26/2021 18:55:35|Available|Specialisation: Covid Specialist, Only WhatsApp/Telegram.
-223|Doctor Doctor Tele-consultation||Dr. Mainak Maitra| |8017143345|Verified|5/2/2021 11:12:48|Available|Specialisation: Covid Specialist
-224|Doctor Doctor Tele-consultation||Dr. Sandipan Saha|Baguiati||Verified|5/2/2021 11:12:54|Available|Specialisation: Pediatrician, Can mention Dr. Monali Sengupta's reference
-225|Doctor Tele-consultation|Kolkata|Not available|Baranagar/Belgharia|9830023540|Verified|5/2/2021 11:12:54|Available|12pm
-226|Doctor Tele-consultation||Saraswati Datta bodhak||7980061823|Verified|5/4/2021 20:32:03|Unavailable|Dr. Saraswati is involved with another volunteer group and would not be consulting beyond that
-227|Doctor Tele-consultation||Debabrata Roy||9800055404|Verified|5/4/2021 20:38:12|Available|Preferred time of consultation - 8pm to 9pm Specialisation - chest physician 
-228|Doctor Tele-consultation||Subarna Goswami||7003398269|Verified|5/4/2021 20:41:40|Available|5pm - 8pm preferred time of consultation. Specialization - Medicine 
-229|Doctor Tele-consultation||Kajal Krishna Banik||9331048886|Verified|5/4/2021 20:46:09|Unavailable|Oversaturated- cannot take anymore calls
-230|Doctor Tele-consultation||Sandip Mitra||9474468504|Verified|5/4/2021 21:06:03|Unavailable|
-231|Doctor Tele-consultation||Pradip Das||8777610371|Verified|5/4/2021 21:05:48|Available|Anytime; general physician 
-232|Doctor Tele-consultation||Krishnendu Roy||9331047012|Verified|5/4/2021 21:11:59|Available|Will only consult home isolated covid patients. Recommended to go through the Association of Health Service Doctors (AHSD) website
-233|Doctor Tele-consultation||Utpal Banerjee||9477053808|Verified|5/4/2021 21:52:09|Available|Covid patients ; specialization - orthopedic 
-234|Doctor Tele-consultation||Amit Ghosh||9830053320|Verified|5/4/2021 22:25:07||Call tomorrow for follow-up 
-235|Doctor Tele-consultation||Anish Dawn||8961145631|Verified|5/5/2021 20:32:56|Available|Covid patients - prefered time of consultation 8 pm to 9 pm
-236|Doctor Tele-consultation||Kalyan Biswas||9434224629|Verified|5/5/2021 20:34:45|Available|For covid patients whenever he is free he will consult 
-237|Doctor Tele-consultation||Debanjan Roy||9932276217|Verified|5/5/2021 20:41:40|Unavailable|Overburdened with work/ contact through AHSD
-238|Doctor Tele-consultation||Not available|Baranagar/Belgharia|9830023540|Verified|4/29/2021 13:46:46|Available|12pm
-239|MENTAL HEALTH Tele-consultation||Mindpeers|ONLINE|9810066307|Verified|5/7/2021 12:21:26|Available|Whatsapp
-240|MENTAL HEALTH Tele-consultation||Lifeline Foundation Kolkata|Free telehelpline 10AM-10PM all 7 days, Lead submitted by Lifeline Foundation|9088030303|Verified|5/7/2021 12:22:03|Available|Free telehelpline 10AM-10PM all 7 days, Lead submitted by Lifeline Foundation
-241|Food|Hooghly|sudipta malakar|Free meal Serampore|9088484812|Verified|5/3/2021 12:49:57||
-242|Food|Hooghly|Bhuri Bhoj|Bali, Belur, Uttarpara|9051831115|Verified|5/7/2021 1:43:51|Available|According to menu list+ delivery charge 
-243|Food|Howrah|Anirban das|Free meal salkia|8910775984|Verified|5/7/2021 1:40:32||
-244|Food|Howrah|Bhuribhoj|Howrah bally|9051831115|Verified|5/7/2021 1:40:47| |
-245|Food|Howrah|sinchan|Free meal Shibpur|7980658684|Verified|5/7/2021 1:41:45||
-246|Food|Howrah|not known|shibpur|9830766739, 8910903643, 7047528327|Verified|5/2/2021 22:13:30|Available|order time 8am to 10am
-247|Food|Kolkata|SEVA FREE FOOD|Ultadanga, salt lake,lake town, airport, kakurgachi, phoolbagan, girish park|7044765985, 7044765929|Verified|5/5/2021 20:09:49|Available|
-248|Food|Kolkata|Sramajibi canteen |Jadavpur|9674519255|Verified|5/3/2021 12:48:21| |
-249|Food|Kolkata|DietFixx|All over Kolkata |9830038142|Verified|5/3/2021 12:48:22| |
-250|Food||Calcutta cooks|All over Kolkata |8017244299|Verified|5/3/2021 12:48:24| |
-251|Food|Kolkata|Depend ablez|All over Kolkata |9163267000|Verified|5/3/2021 12:48:26| |
-252|Food||Amrito home delivery ||9051159815|Verified|| |
-253|Food||Dolar Rannaghor ||9831830794|Verified|5/3/2021 12:48:28| |
-254|Food||Spoon fuel ||9007760418|Verified|5/3/2021 12:48:35| |
-255|Food|Kolkata|Rannaghor|All over Kolkata |8240109107|Verified|5/3/2021 12:48:36| |
-256|Food||Mrs kitchen||8910928400|Verified|5/3/2021 12:48:36| |
-257|Food|Kolkata|Peerless inn||9007012906|Verified|5/3/2021 12:48:36| |
-258|Food||Shivangi roy||9073329885|Verified|| |
-259|Food|Kolkata|Ghar ki rasoi||9874987724|Verified|5/3/2021 12:48:43| |
-260|Food||Vrinda patodia||9433090588|Verified|| |
-261|Food||OGS Kitchen ||8697082035|Verified|5/3/2021 12:48:47| |
-262|Food||Meals by mom||7439311158|Verified|| |
-263|Food||The hungry bear||9831397018|Verified|5/3/2021 12:48:47| |
-264|Food|Kolkata|Nishat tasmin|Swiggy/uber|8697767907|Verified|5/3/2021 12:48:51| |
-265|Food||Taaza||7044169715|Verified|5/3/2021 12:48:52| |
-266|Food||Granny's kitchen |Per order|9051661509|Verified|| |
-267|Food|Kolkata|Moody foody by ankita|All across Kolkata |9610096439|Verified|| |
-268|Food||Arnab home delivery ||9051159815|Verified|5/3/2021 12:48:53| |
-269|Food||Ekdalia coccinia||9123369378|Verified|5/3/2021 12:48:56| |
-270|Food|Kolkata|Nanighar|All over Kolkata |8282828787|Verified|5/7/2021 1:32:11| |
-271|Food|Kolkata|Amrito Home Delivery (not Arnab delivery)|South Kolkata|9051159815/9051391245|Verified||Available|Starting from ₹70. Very polite
-272|Food|Kolkata|Dolar Ranna Ghor|Phoolbagan|9831830794|Verified||Available|Fish meal ₹135, chicken meal ₹200
-273|Food|Kolkata|Vrinda Patodia|Ballygunje and nearby areas|9433090588|Verified||Available|Free of cost. Very polite person.
-274|Food|Kolkata|Meals by Mom|Park Street(within 2km radius)|7439311158|Verified||Available|
-275|Food|Kolkata|covid-19 canteen|8B, bijoygarh, pallisree, sree colony, netajinagar, gandhi colony, ranikuthi, baghajatin, garia|7044630806|Verified|5/3/2021 12:49:14| |
-276|Food|Kolkata|kheyeche|south kolkata|9830041714|Verified|| |
-277|Food||mundhra kitchen||7003752008|Verified|| |
-278|Food||ranjan's homefood||8820470143|Verified|5/7/2021 1:33:45| |
-279|Food|Kolkata|Ubuntu the vegan cafe|South Kolkata ( book 24hrs prior )|8861657131|Verified|5/3/2021 12:49:45| |
-280|Food||Yours Truly ||6291180092|Verified|| |
-281|Food|Kolkata|Asmita|Free meal at Behala, Tollygunge,Golf Green,lake gardens &jodhpur park|8482055025|Verified|| |
-282|Food|Kolkata|Harsh|Free meal at New Alipore, Chetla, Tollygunge, Kalighat, haridevpur, behala|8697449350|Verified|| |
-283|Food|Kolkata|Shravasti ghosh|Free meal up to 15,north kol|8902703686|Verified|| |
-284|Food|Kolkata|Kerry patta|Free lunch(24 hrs notice)|9830706543|Verified|5/3/2021 12:49:57| |
-285|Food|Kolkata|Be-kery|Belghoria to birati|7044077280|Verified|5/3/2021 12:49:55| |
-286|Food|Kolkata|Rakhi Mukherjee|Shyambazar ,Baghbazar|9674327763|Verified|||
-287|Food|Kolkata|Free meals|Kolkata|8335088799|Verified|5/7/2021 1:37:15|Available|Serves food around the locality of Tollygunge
-288|Food|Kolkata|Home delivery |Behala, sokherbajar, Haridev pur, Thakurpukur, 3A, Tollygunge ,chourasta|9674147275, 7890044404|Verified|5/7/2021 1:37:29||
-289|Food|Kolkata|||9874557022, 9007316995, 8961524938|Verified|5/6/2021 10:22:25|Available|
-290|Food|Kolkata|||9831710175, 9007361760|Verified|5/6/2021 10:24:46|Available|
-291|Food|North 24 Parganas|Ra seek|Salt lake, Rajarhat, Newton,chinarpark,bhangur Laketown |7980847805|Verified|5/3/2021 12:48:59| |
-292|Food||Calcutta cookbook |Salt lake |9051339185|Verified|| |
-293|Food|North 24 Parganas|Maa er heshel||8013093423|Verified|5/3/2021 12:49:03| |
-294|Food|North 24 Parganas|Suvendu Samanta|Ghoshpur|9932414398|Verified|4/28/2021 12:15:21|Available|
-295|Food|North 24 Parganas|Meghnath Doloi|Ghoshpur|9002619893|Verified|4/28/2021 12:16:37|Available|
-296|Food|North 24 Parganas|sayani sengupta|salt lake, lake town, rajarhat, kestopur, baguiati, nagerbazar, vip road, bangur|9903583823|Verified|5/3/2021 12:49:11| |
-297|Food|North 24 Parganas|Adrija|Free meal Sodepur to kalyani|6291575300|Verified|5/7/2021 1:41:18||
-298|Food|North 24 Parganas|sejuti|Free meal Halishahar|8617224535|Verified|||
-299|Food|North 24 Parganas|Anushongik / Sanjoy saha|Kankurgachi, salt lake sector 1, Ultadanga, phoolbagan|9051478526|Verified|5/7/2021 1:42:10||
-300|Food|North 24 Parganas|Heshel by red volunteers kamarhati|Kamarhati|9674953080, 9674604148|Verified|5/4/2021 16:02:11||
-301|Food|North 24 Parganas|Red volunteers Barrackpore|Barrackpore|8697111856, 8777068028|Verified|5/4/2021 16:14:59||
-302|Food|North 24 Parganas|Arijit Mukherjee|Salt lake|89810873761/9831443759/8910840476|Verified|5/7/2021 1:46:55|Available|12:30 - 1:30 pm, stew-bread
-303|Food|South 24 Parganas|Damayanti|Baruipur |8910060878|Verified|5/7/2021 1:35:59||
-304|Food|Purba Bardhaman|Kishore |Raghunathbari|9564528776|Verified|5/7/2021 1:39:48|Available|
-305|Food|Paschim Bardhaman|Puja Bhattad|Durgapur|9933007565|Verified|5/3/2021 12:49:56| |
-306|Food|Paschim Bardhaman|Suvadip|Free meal Durgapur|9800156933|Verified|5/7/2021 1:37:45||
-307|Food|Paschim Medinipur|Akash Rahman|Gobindanagar|7001257016|Verified|5/7/2021 1:38:43|Available|
-308|Food|Purba Medinipur|Subhadeep Sarkar|Pashkura-1 |9800982837|Verified|4/28/2021 12:12:05|Available|
-309|Food|Purba Medinipur|Sukumar Bera|Keshapat|7602712399|Verified|4/28/2021 12:12:47|Available|
-310|Food|Purba Medinipur|Prabir Pike|Khandakhola|8768516858|Verified|4/28/2021 12:13:54|Available|
-311|Food|Purba Medinipur|Manik Mandal|Pashkura|9775507297|Verified|4/28/2021 12:14:36|Available|
-312|Food|Purba Medinipur|Saiyad Abu|Chaitanyapur|9733102201|Verified|4/28/2021 12:17:29|Available|
-313|Food|Purba Medinipur|Buddhadeb Maiti |Chaitanyapur|8250335092|Verified|4/28/2021 12:20:42|Available|
-314|Food|Purba Medinipur|Tathagata|Pashkura|8768851745|Verified|4/28/2021 12:27:32|Available|
+|Facility provided|District|Name of the Organisation/Contact Person |Location|Contact number |Verification  Status|Verification time|Availability Status| Info Missing
+0|Hospital Admission|Birbhum|N.C.Dutta Memorial Hospital|Rampurhat|9434558088, 8967593843|Verified|5/9/2021 12:12:24|Available| Info Missing
+1|Hospital Admission|Birbhum|Jyoti Nursing Home|Nalhati|9232034121|Verified|5/9/2021 12:14:18|Available| Info Missing
+2|Hospital Admission|Birbhum|New Apanjan Nursing Home|Rampurhat|9734067125|Verified|5/9/2021 12:14:59|Available| Info Missing
+3|Hospital Admission|Jalpaiguri|SARI/COVID Hospital|Jalpaiguri|1800313444222, 8167880988, 8207283307|Verified|5/9/2021 12:36:58|Available| Info Missing
+4|Hospital Admission|Kolkata|Apex Nursing Home|Shyam Bazar|7595033440|Verified|5/9/2021 12:37:26|Available| Info Missing
+5|Hospital Admission|Kolkata|AMRI Salt Lake|Salt lake |033-6606-3800, 8444800000, 9903025666|Verified|5/9/2021 15:45:16|Available| Info Missing
+6|Oxygen|Hooghly|Agarwal Medical|Serampore|9038840685, 9874539132, 9804006628|Verified|5/10/2021 10:42:51|Available| Info Missing
+7|Oxygen|Hooghly|Loha Singh|Rishra|9230833509|Verified|5/10/2021 10:42:51|Available| Info Missing
+8|Oxygen|Howrah|Subhadip|Uluberia|7557077073|Verified|5/10/2021 10:44:25|Available| Info Missing
+9|Oxygen|Howrah|Not known|Uluberia|9748774955|Verified|5/10/2021 10:44:43|Available| Info Missing
+10|Oxygen|Howrah|no name|Howrah near don Bosco|7980535835|Verified|5/10/2021 10:45:04|Available| Info Missing
+11|Oxygen|Kolkata|Not available|Kolkata|7003656667|Verified|5/10/2021 10:45:38|Available| Info Missing
+12|Oxygen|Kolkata|Tablet Pharmacy|Kolkata|9089085252|Verified|5/10/2021 10:46:18|Available| Info Missing
+13|Oxygen|Kolkata|Helathy Minds Yoga||7003425147|Verified|5/10/2021 10:48:15|Available| Info Missing
+14|Oxygen|Kolkata|no name|Hindustan park |9051653106|Verified|5/10/2021 10:48:47|Available| Info Missing
+15|Oxygen|Kolkata|Swapan Kumar Panda|Baghajatin|8017711721|Verified|5/10/2021 10:49:06|Available| Info Missing
+16|Oxygen|Kolkata|no name|Hazra|916290182746|Verified|5/10/2021 10:52:41|Available| Info Missing
+17|Oxygen|Kolkata|Unknown|Behala|90518 74959, 70035 37716|Verified|5/10/2021 10:52:50|Available| Info Missing
+18|Oxygen|Kolkata|Molina shikdal|Mukundupur, opposite of R.N.Tagore hospital|7890629585|Verified|5/10/2021 10:53:00|Available| Info Missing
+19|Oxygen|North 24 Parganas|tarun sangha club|Birati, opposite nimta thana|8617274695|Verified|5/10/2021 11:00:01|Available| Info Missing
+20|Oxygen|North 24 Parganas|Suman Kundu|Baranagar|7980733913|Verified|5/10/2021 11:00:15|Available| Info Missing
+21|Oxygen|Murshidabad|Kausar alam|Farakka|9434101716|Verified|5/8/2021 11:00:42|Available| Info Missing
+22|Oxygen|Paschim Bardhaman|Rv chandan|Durgapur|9647272727|Verified|5/9/2021 11:22:11|Available| Info Missing
+23|Oxygen|Purulia|Joydeep Sinha Vanas|Purulia|9382699290|Verified|5/9/2021 11:24:10|Available| Info Missing
+24|Oxygen|Purulia|Ram Sao|Location will Be shared by provider|9932220655|Verified|5/9/2021 11:24:32|Available| Info Missing
+25|Oxygen|Purulia|Biman Goswami |PURULIA Town |8391058036|Verified|5/7/2021 18:20:20|Available| Info Missing
+26|Oxygen|Purulia|no name|PURULIA, GD Collage More, Ram er Dokan|7001354085|Verified|5/9/2021 11:25:39|Available| Info Missing
+27|Oxygen|Birbhum|Rahul||7430903557|Verified|5/9/2021 11:27:02|Available| Info Missing
+28|Oxygen|Birbhum|N A|Bolpurer|9434326341|Verified|5/9/2021 11:28:26|Available| Info Missing
+29|Oxygen|Jalpaiguri|Ankur Das (Green Jalpaiguri)|In and around NJP|8101484889|Verified|5/10/2021 11:04:38|Available| Info Missing
+30|Oxygen|Kolkata|Ranmay Saha|Kolkata|9696022022|Verified|5/10/2021 11:08:50|Available| Info Missing
+31|Oxygen|Kolkata|Sayani|Baghajatin|9748683892|Verified|5/10/2021 11:09:12|Available| Info Missing
+32|Oxygen|Kolkata|Oxygen on Wheels||7044041010, 7044041015|Verified|5/10/2021 11:09:26|Available| Info Missing
+33|Oxygen|Purba Medinipur|Government|Tamluk|7364045140|Verified|5/10/2021 11:10:05|Available| Info Missing
+34|Oxygen|Kolkata|Behandala hospital|Behala|6290619696|Verified|5/10/2021 11:10:31|Available| Info Missing
+35|Oxygen|Kolkata|no name|Jadavpur|8961972733|Verified|5/10/2021 11:11:23|Available| Info Missing
+36|Oxygen|Hooghly||Konnagar|7003092869|Verified|5/10/2021 9:11:15|Available| Info Missing
+37|Ambulance|Kolkata|MAHAYOGI FOUNDATION|Pan-Kolkata|8902377288|Verified|29/4 20.23|Available| Info Missing
+38|Ambulance|Kolkata|Jadavpur Merchants Association|Jadavpur|9830048199, 9831298429, 2421-5079, 2421-8165|Verified|29/4 20:02|Available| Info Missing
+39|Ambulance|Kolkata|Narayan Ambulance Service|Pan-Kolkata|8240008394, 8981252465|Verified|29/4 20:03|Available| Info Missing
+40|Ambulance|Kolkata|Santu|Pan-Kolkata|9831305502|Verified|29/4 20:04|Available| Info Missing
+41|Ambulance|Kolkata|St. Johns Ambulance (H.Q)||9830023653, 033-24863926, 033-24761935|Verified|29/4 20:20|Available| Info Missing
+42|Ambulance|Kolkata|LIFECARE MEDICAL SERVICES||033-24754628|Verified|29/4 20:20|Available| Info Missing
+43|Ambulance|North 24 Parganas|Poddar Ambulance Service |Near Bypass Dhaba |7003456588|Verified|29/4 20:38|Available| Info Missing
+44|Ambulance|Kolkata|Lokenath Ambulance Services|Jadavpur|8013476160|Verified|29/4 20:38|Available| Info Missing
+45|Ambulance|North 24 Parganas|Hindustan Ambulance Services|Ruby|9836909839/ 8420004004|Verified|29/4 20:38|Available| Info Missing
+46|Ambulance|Kolkata|Bluebells Ambulance Services|Jatin Das Park|9830034475/ 7980636271|Verified|29/4 20:38|Available| Info Missing
+47|Ambulance|Kolkata|The Golden Hour Ambulance Services|Kalighat|9831444428|Verified|29/4 20:38|Available| Info Missing
+48|Ambulance|Howrah|Amjad|Kolkata & Howrah|9875686693|Verified|29/4 20:22|Available| Info Missing
+49|Ambulance|Paschim Bardhaman|Bharat Ambulance|Asansol, Durgapur|9434678387|Verified|29/4 20:00|Available| Info Missing
+50|Ambulance|Paschim Bardhaman|Ma Ambey Ambulance|Asansol, Durgapur|9775555543|Verified|29/4 20:00|Available| Info Missing
+51|Ambulance|Purulia|Vanuas club ||8967366789|Verified|5/2/2021 17:02:53|Available| Info Missing
+52|Ambulance|North 24 Parganas|Sanjib dey|Baranagar aranna cinema hall|9432362856|Verified|5/3/2021 22:21:10|Available| Info Missing
+53|Ambulance|Kolkata|Biswajit mondal|Saltlake|8420958776|Verified|5/5/2021 22:44:38|Available| Info Missing
+54|Ambulance|Kolkata|||9874404040|Verified|5/6/2021 9:53:57|Available| Info Missing
+55|Ambulance|Kolkata|||9007774116|Verified|5/6/2021 9:57:43|Available| Info Missing
+56|Ambulance|Kolkata|||9674000858|Verified|5/6/2021 10:00:13|Available| Info Missing
+57|Ambulance|Kolkata|||9748463237|Verified|5/6/2021 10:02:02|Available| Info Missing
+58|Plasma |Kolkata|Prateek Jain (Kolkata)|Kolkata |9903699009|Verified|24.04.21 at 7:52 pm|Available| Info Missing
+59|Blood|Kolkata|Nitasha Bloodmates (Kolkata)|Kolkata |8017197476|Verified| 24.4.2021  at 7:56pm|Available| Info Missing
+60|Blood|Kolkata|Sumedha Bloodmates|Kolkata |9609572445|Verified|24.04.21 at 7:57 pm|Available| Info Missing
+61|Plasma |Kolkata|Jhelum Roy A+ve|Kolkata |9433731206|Verified| 24.4.2021, 2:50PM|Available| Info Missing
+62|Plasma |Kolkata|Dwaipayan B+ve|Kolkata |9674556147|Verified|24.04.2021. 8:43pm|Available| Info Missing
+63|Blood||||7970432644|Verified|5/7/2021 15:34:41|Available| Info Missing
+64|Blood||||9830169378|Verified|5/7/2021 14:56:23|Available| Info Missing
+65|Blood||||6289230550|Verified|5/7/2021 14:56:52|Available| Info Missing
+66|Blood||||8967977137|Verified|5/7/2021 14:57:20|Available| Info Missing
+67|Blood||||7001027959|Verified|5/7/2021 14:57:50|Available| Info Missing
+68|Blood||||9330636719|Verified|5/7/2021 14:58:16|Available| Info Missing
+69|Blood||||7003871467|Verified|5/7/2021 14:58:57|Available| Info Missing
+70|Covid Tests|Kolkata Central|Nightingale diagnostic and Medicare centre pvt.Ltd (department Of laboratory services)|Kolkata|033-35005949 , 9674758055|Verified|29/04. 20:45|Available| Info Missing
+71|Covid Tests|Kolkata|Repromed Diagnostic Private Limited|PARK CIRCUS BESIDE DON BOSCO-JINDAL TOWERS|9831186463|Verified|29/04. 20:45|Available| Info Missing
+72|Covid Tests|Kolkata|HEALTH-ETC|BAGUIATI|6289705441|Verified|29/04. 20:45|Available| Info Missing
+73|Covid Tests|North 24 Parganas|GCC DNA Diagnostic Lab- Unit of GCC Biotech (India) PVT. LTD., Bishnupur|bakrahat|7596050680|Verified|29/04. 20:45|Available| Info Missing
+74|Covid Tests|Kolkata|Netaji Subhas Chandra Bose Medical Centre |Park Street|022-291049|Verified|29/04. 20:45|Available| Info Missing
+75|Covid Tests|North 24 Parganas|Unipath lab ,salt lake sector 1, kolkata, Nabo Kumar|In and Around Kolkata|9051621594/9016128664|Verified|29/04. 20:45|Available| Info Missing
+76|Covid Tests|North 24 Parganas|medica superspecialty hospital, kolkata|em bypass, Mukundapur|9073329065, 9007002626|Verified|29/04. 20:45|Available| Info Missing
+77|Covid Tests|Kolkata|Jagannath Gupta Institute of Medical Sciences & Hospital, Kolkata|Budge Budge|033-66112222 9903396230|Verified|29/04. 20:45|Available| Info Missing
+78|Covid Tests|Kolkata|Laboratory Services, Peerless Hospitex Hospital and Research Center Limited, Kolkata|Pancha Sayar, Garia|033-4011 1222|Verified|29/04. 20:45|Available| Info Missing
+79|Covid Tests|Kolkata|Molecular Diagnostics Laboratory, Saroj Gupta Cancer Centre and Research Institute, Kolkata|Thakupukur|9136853880|Verified|29/04. 20:45|Available| Info Missing
+80|Covid Tests|Paschim Bardhaman|Molecular Biology Laboratory, Gouri Devi Institute of Medical Sciences and Hospital, Durgapur|Durgapur|8001113333, 7063259799|Verified|29/04. 20:45|Available| Info Missing
+81|Covid Tests|Paschim Bardhaman|The Mission Hospital (A Unit of Durgapur Medical Centre Pvt. Ltd.), Durgapur|Durgapur|0343-6615555 |Verified|29/04. 20:45|Available| Info Missing
+82|Covid Tests|Paschim Medinipur|Spandan Diagnostic Centre Pvt Ltd, Midnapore|Medinipur |7001748105|Verified|29/04. 20:45|Available| Info Missing
+83|Covid Tests|Kolkata|Pulse Diagnostics Pvt.Ltd., Kolkata |Lansdowne|033-7198 1800 |Verified|29/04. 20:45|Available| Info Missing
+84|Covid Tests|Cooch Behar|Dr.P.K.Saha hospital pvt. Ltd.- Pathological laboratory unit|Coochbehar|7602942094, 9564066695|Verified||Available| Info Missing
+85|Covid Tests|Hooghly|Sahini Covid testing|Srirampur-Magra|9051292025|Verified|29/04. 20:45|Available| Info Missing
+86|Covid Tests|Howrah|Sanjiban hospital (a unit of Chikitsabrati udyog), department Of laboratory services, howrah|Howrah|9748464885|Verified|29/04. 20:45|Available| Info Missing
+87|Covid Tests|Kolkata|not known|ultodanga|8777454915|Verified|5/2/2021 19:06:13|Available| Info Missing
+88|Covid Tests|Kolkata|Subrata Gupta|Kolkata|9007821666|Verified|5/5/2021 18:43:02|Available| Info Missing
+89|Doctor Tele-consultation||Dr. Rahul Sarkar|Kaikhali|9830994090|Verified|5/2/2021 11:11:47|Available| Info Missing
+90|Doctor Tele-consultation||Dr. Smarajit Banik| |9474437444|Verified|5/4/2021 17:29:31|Available| Info Missing
+91|Doctor Tele-consultation||Dr. Apu Adhikary| |7001622991|Verified|5/2/2021 11:12:03|Available| Info Missing
+92|Doctor Tele-consultation||Dr. Abhijit Ray| |9434044005|Verified|5/2/2021 11:12:03|Available| Info Missing
+93|Doctor Tele-consultation||Dr. Bhatta| |9830060266|Verified|5/2/2021 11:12:13|Available| Info Missing
+94|Doctor Tele-consultation||Dr. Hefjur Rahman| |7003952407|Verified|4/26/2021 18:55:35|Available| Info Missing
+95|Doctor Tele-consultation||Dr. Mainak Maitra| |8017143345|Verified|5/2/2021 11:12:48|Available| Info Missing
+96|Doctor Tele-consultation||Dr. Sandipan Saha|Baguiati||Verified|5/2/2021 11:12:54|Available| Info Missing
+97|Doctor Tele-consultation|Kolkata|Not available|Baranagar/Belgharia|9830023540|Verified|5/2/2021 11:12:54|Available| Info Missing
+98|Doctor Tele-consultation||Debabrata Roy||9800055404|Verified|5/4/2021 20:38:12|Available| Info Missing
+99|Doctor Tele-consultation||Subarna Goswami||7003398269|Verified|5/4/2021 20:41:40|Available| Info Missing
+100|Doctor Tele-consultation||Pradip Das||8777610371|Verified|5/4/2021 21:05:48|Available| Info Missing
+101|Doctor Tele-consultation||Krishnendu Roy||9331047012|Verified|5/4/2021 21:11:59|Available| Info Missing
+102|Doctor Tele-consultation||Utpal Banerjee||9477053808|Verified|5/4/2021 21:52:09|Available| Info Missing
+103|Doctor Tele-consultation||Anish Dawn||8961145631|Verified|5/5/2021 20:32:56|Available| Info Missing
+104|Doctor Tele-consultation||Kalyan Biswas||9434224629|Verified|5/5/2021 20:34:45|Available| Info Missing
+105|Doctor Tele-consultation||Not available|Baranagar/Belgharia|9830023540|Verified|4/29/2021 13:46:46|Available| Info Missing
+106|Doctor Tele-consultation||Mindpeers|MENTAL HEALTH Tele-consultation|9810066307|Verified|5/7/2021 12:21:26|Available| Info Missing
+107|Doctor Tele-consultation||Lifeline Foundation Kolkata|Free telehelpline 10AM-10PM all 7 days, Lead submitted by Lifeline Foundation|9088030303|Verified|5/7/2021 12:22:03|Available| Info Missing
+108|Doctor Tele-consultation||Telepathy Telemedicine Support||9153227036|Verified|5/8/2021 18:50:20|Available| Info Missing
+109|Doctor Tele-consultation||Telepathy Telemedicine Support||8016332955|Verified|5/8/2021 18:54:21|Available| Info Missing
+110|Doctor Tele-consultation||Telepathy Telemedicine Support||9635727331|Verified|5/8/2021 18:50:27|Available| Info Missing
+111|Doctor Tele-consultation||Telepathy Telemedicine Support||9477402361|Verified|5/8/2021 18:54:21|Available| Info Missing
+112|Doctor Tele-consultation||Telepathy Telemedicine Support||9932333322|Verified|5/8/2021 18:50:36|Available| Info Missing
+113|Doctor Tele-consultation||Telepathy Telemedicine Support||9477402360|Verified|5/8/2021 18:57:38|Available| Info Missing
+114|Doctor Tele-consultation||Telepathy Telemedicine Support||7602562331|Verified|5/8/2021 18:50:36|Available| Info Missing
+115|Food|Hooghly|Bhuri Bhoj|Bali, Belur, Uttarpara|9051831115|Verified|5/7/2021 1:43:51|Available| Info Missing
+116|Food|Howrah|not known|shibpur|9830766739, 8910903643, 7047528327|Verified|5/2/2021 22:13:30|Available| Info Missing
+117|Food|Kolkata|SEVA FREE FOOD|Ultadanga, salt lake,lake town, airport, kakurgachi, phoolbagan, girish park|7044765985, 7044765929|Verified|5/5/2021 20:09:49|Available| Info Missing
+118|Food|Kolkata|Amrito Home Delivery (not Arnab delivery)|South Kolkata|9051159815/9051391245|Verified||Available| Info Missing
+119|Food|Kolkata|Dolar Ranna Ghor|Phoolbagan|9831830794|Verified||Available| Info Missing
+120|Food|Kolkata|Vrinda Patodia|Ballygunje and nearby areas|9433090588|Verified||Available|Duplicate
+121|Food|Kolkata|Meals by Mom|Park Street(within 2km radius)|7439311158|Verified||Available|Duplicate
+122|Food|Kolkata|Free meals|Kolkata|8335088799|Verified|5/7/2021 1:37:15|Available| Info Missing
+123|Food|Kolkata|||9874557022, 9007316995, 8961524938|Verified|5/6/2021 10:22:25|Available| Info Missing
+124|Food|Kolkata|||9831710175, 9007361760|Verified|5/6/2021 10:24:46|Available| Info Missing
+125|Food|North 24 Parganas|Suvendu Samanta|Ghoshpur|9932414398|Verified|4/28/2021 12:15:21|Available| Info Missing
+126|Food|North 24 Parganas|Meghnath Doloi|Ghoshpur|9002619893|Verified|4/28/2021 12:16:37|Available| Info Missing
+127|Food|North 24 Parganas|Arijit Mukherjee|Salt lake|89810873761/9831443759/8910840476|Verified|5/7/2021 1:46:55|Available| Info Missing
+128|Food|Purba Bardhaman|Kishore |Raghunathbari|9564528776|Verified|5/7/2021 1:39:48|Available| Info Missing
+129|Food|Paschim Medinipur|Akash Rahman|Gobindanagar|7001257016|Verified|5/7/2021 1:38:43|Available| Info Missing
+130|Food|Purba Medinipur|Subhadeep Sarkar|Pashkura-1 |9800982837|Verified|4/28/2021 12:12:05|Available| Info Missing
+131|Food|Purba Medinipur|Sukumar Bera|Keshapat|7602712399|Verified|4/28/2021 12:12:47|Available| Info Missing
+132|Food|Purba Medinipur|Prabir Pike|Khandakhola|8768516858|Verified|4/28/2021 12:13:54|Available| Info Missing
+133|Food|Purba Medinipur|Manik Mandal|Pashkura|9775507297|Verified|4/28/2021 12:14:36|Available| Info Missing
+134|Food|Purba Medinipur|Saiyad Abu|Chaitanyapur|9733102201|Verified|4/28/2021 12:17:29|Available| Info Missing
+135|Food|Purba Medinipur|Buddhadeb Maiti |Chaitanyapur|8250335092|Verified|4/28/2021 12:20:42|Available| Info Missing
+136|Food|Purba Medinipur|Tathagata|Pashkura|8768851745|Verified|4/28/2021 12:27:32|Available| Info Missing
+137|Food|Kolkata|||9830977012|Verified|5/9/2021 14:18:53|Available| Info Missing
+138|Food|North 24 Parganas||Ichapur, Palta, Shyamnagar|9748768390|Verified|5/10/2021 8:55:39|Available| Info Missing
+139||Kolkata|Frank Ross pharmacy|shyambazar|9073190117|Verified|5/6/2021 13:34:02|Available| Info Missing
+140|Medicines|Darjeeling|Dindayal Agarwal's Medicine shop|Siliguri|9734695945|Verified|10.30Am.26.04|Available| Info Missing
+141|Medicines|Kolkata|Name not known |Esplanade, New Market area|9748683892, 7003098932|Verified|5/10/2021 11:27:20|Available| Info Missing
+142|Medicines|Kolkata|Amrut Pharmacy|Hazra|3346014172|Verified|26.04. |Available| Info Missing
+143|Medicines|Jalpaiguri|Dindayal Agarwal Medicine Shop|Siliguri|9734695945|Verified|4/28/2021 20:23:11|Available| Info Missing
+144|Medicines|Jalpaiguri|med equipment |Siliguri|3532641247|Verified|5/5/2021 0:21:09|Available| Info Missing
+145|Medicines|Kolkata|Frankross|Shyambazar|90731 90117|Verified|5/6/2021 11:13:14|Available| Info Missing
+146|Quarantine centre|Kolkata|AMRI Safe home|salt lake stadium|9163645544|Verified|5/7/2021 17:34:17|Available| Info Missing
+147|Quarantine & Home Care|Kolkata|Desun|Ruby|8334002567, 9830299755|Verified|5/3/2021 15:47:10|Available| Info Missing
+148|Quarantine & Home Care|Kolkata|matribhaban seva kendra|keshtopur|9831892823|Verified|5/4/2021 13:50:34|Available| Info Missing
+149|Quarantine & Home Care|Kolkata|shanti aya centre|new alipore|9830240539|Verified|5/4/2021 13:51:24|Available| Info Missing
+150|Quarantine & Home Care|Kolkata|sri krishna aya centre|dhakuria|8910858411|Verified|5/4/2021 13:54:33|Available| Info Missing
+151|Quarantine & Home Care|Kolkata|indu aya centre|baghajatin|7947229130|Verified|5/4/2021 13:54:32|Available| Info Missing
+152|Quarantine & Home Care|Kolkata|bijoli home care|ballygunj|9830623911|Verified|5/4/2021 13:54:55|Available| Info Missing
+153|Quarantine & Home Care|Kolkata|falguni care|baguihati|9051560286|Verified|5/4/2021 13:56:13|Available| Info Missing
+154|Quarantine & Home Care|Kolkata|day night care|birati|8240441286|Verified|5/4/2021 13:56:44|Available| Info Missing
+155|Quarantine & Home Care|Kolkata|das nursing|sonarpur|7908675316|Verified|5/4/2021 13:57:49|Available| Info Missing
+156|Quarantine & Home Care|Kolkata|penguin home care|kolkata|7477713300|Verified|5/4/2021 13:58:31|Available| Info Missing
+157|Quarantine & Home Care|Kolkata|sikha nurses centre|baghajatin|8.77729E+29|Verified|5/4/2021 14:02:15|Available| Info Missing
+158|Quarantine & Home Care|Darjeeling|ITi College Jalpaiguri|Jalpaiguri|9083354528|Verified|5/5/2021 13:22:03|Available| Info Missing
+159|Quarantine & Home Care|NA|Child Care West Bengal Govt.|All over West Bengal|3323215551|Verified|5/7/2021 15:20:18|Available| Info Missing
+160|Quarantine & Home Care|Kolkata|Desun hospital oyo |Hussainpur|8334002567|Verified|5/8/2021 12:09:25|Available| Info Missing

@@ -46,6 +46,7 @@ disqus:
 header_pages:
   - contribute.markdown
   - resources.markdown
+  - faq.markdown
   - about.markdown
 
   # - oxygen.markdown

@@ -6,10 +6,7 @@ permalink: /test/Kolkata
 <div class="row">
 	<div class="column">
 <div class="card_av">
-<h3>Nightingale Diagnostic And
-Medicare Centre Pvt.Ltd (Department
-Of Laboratory Services)
-</h3>
+<h3>Nightingale Diagnostic And Medicare Centre Pvt.Ltd (Department Of Laboratory Services)</h3>
 
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata Central</th></tr>
@@ -31,8 +28,6 @@ Of Laboratory Services)
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3>Not Known</h3>
-
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
 <tr><th>Location</th><th>Ultodanga</th></tr>
@@ -75,37 +70,33 @@ Of Laboratory Services)
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3>Jagannath Gupta Institute Of Medical
-Sciences & Hospital, Kolkata</h3>
+<h3>Jagannath Gupta Institute Of Medical Sciences & Hospital, Kolkata</h3>
 
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Contact number </th><th><a href="tel:033-66112222
-9903396230">033-66112222
-9903396230</a></th></tr>
+<tr><th>Location</th><th>Budge Budge</th></tr>
+<tr><th>Contact number </th><th><a href="tel:033-66112222 9903396230">033-66112222 9903396230</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>29/04. 20:45</th></tr>
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3>Laboratory Services, Peerless Hospitex
-Hospital And Research Center Limited,
-Kolkata </h3>
+<h3>Laboratory Services, Peerless Hospitex Hospital And Research Center Limited, Kolkata</h3>
 
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>Pancha Sayar, Garia</th></tr>
 <tr><th>Contact number </th><th><a href="tel:033-4011 1222">033-4011 1222</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>29/04. 20:45</th></tr>
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3>Molecular Diagnostics Laboratory,
-Saroj Gupta Cancer Centre And
-Research Institute, Kolkata </h3>
+<h3>Molecular Diagnostics Laboratory, Saroj Gupta Cancer Centre And Research Institute, Kolkata</h3>
 
 <div class="info"><table>
 <tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>Thakupukur</th></tr>
 <tr><th>Contact number </th><th><a href="tel:9136853880">9136853880</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>29/04. 20:45</th></tr>
@@ -122,50 +113,6 @@ Research Institute, Kolkata </h3>
 <tr><th>Verification time</th><th>29/04. 20:45</th></tr>
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
-<div class="card_nav">
-<h3>Narayan Memorial Hospital
-Moleculra Lab, Kolkata </h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9830268604">9830268604</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>29/04. 20:45</th></tr>
-<tr><th>Availability Status</th><th>Info Missing</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>R B Diagnostic Private Limited,
-Kolkata</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Contact number </th><th><a href="tel:033-4085 4085
-033-3382 3382">033-4085 4085
-033-3382 3382</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>29/04. 20:45</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Metropolis Healthcare Limited, Kolkata </h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Contact number </th><th><a href="tel:8422801801">8422801801</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>29/04. 20:45</th></tr>
-<tr><th>Availability Status</th><th>Will Be Available Soon</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Probe Diagnostics Pvt. Ltd.</h3>
-
-<div class="info"><table>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Kolkata</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9073930358">9073930358</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Availability Status</th><th>Will Be Available Soon</th></tr>
-</table></div></div>
 </div>
 </div> <br><br>
-<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>
+<h4> Data updated at: 2021:05:10 11:40:24 IST +0530 </h4>

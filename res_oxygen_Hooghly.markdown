@@ -5,105 +5,40 @@ permalink: /oxygen/Hooghly
 ---
 <div class="row">
 	<div class="column">
-<div class="card_nav">
-<h3>Bala Kaku Gas</h3>
+<div class="card_av">
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Hooghly</th></tr>
+<tr><th>Location</th><th>Konnagar</th></tr>
+<tr><th>Contact number </th><th><a href="tel:7003092869">7003092869</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/10/2021 9:11:15</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Agarwal Medical</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Hooghly</th></tr>
+<tr><th>Location</th><th>Serampore</th></tr>
+<tr><th>Contact number </th><th><a href="tel:9038840685">9038840685</a><a href="tel: 9874539132"> 9874539132</a><a href="tel: 9804006628"> 9804006628</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/10/2021 10:42:51</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Loha Singh</h3>
 
 <div class="info"><table>
 <tr><th>Resource</th><th>Oxygen</th></tr>
 <tr><th>District</th><th>Hooghly</th></tr>
 <tr><th>Location</th><th>Rishra</th></tr>
-<tr><th>Contact number </th><th><a href="tel:8337073311">8337073311</a></th></tr>
+<tr><th>Contact number </th><th><a href="tel:9230833509">9230833509</a></th></tr>
 <tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/8/2021 10:45:26</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Suvendu Oxygen</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>District</th><th>Hooghly</th></tr>
-<tr><th>Location</th><th>Uttarpara-Magra</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9830383445">9830383445</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/8/2021 10:44:00</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Vishnu Priya Medical </h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen </th></tr>
-<tr><th>District</th><th>Hooghly</th></tr>
-<tr><th>Location</th><th>Banamalipur</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9433334365">9433334365</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/8/2021 10:43:48</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Shome Pharmacy</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>District</th><th>Hooghly</th></tr>
-<tr><th>Location</th><th>Sahaganj</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9432257213">9432257213</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/8/2021 10:45:09</th></tr>
-<tr><th>Availability Status</th><th>Will Be Available Soon</th></tr>
-</table></div></div>
-<div class="card_av">
-<h3>Axiom Devices</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9830025229">9830025229</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/8/2021 11:34:30</th></tr>
+<tr><th>Verification time</th><th>5/10/2021 10:42:51</th></tr>
 <tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3> Info Missing</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9933714451">9933714451</a><a href="tel: 9635398332"> 9635398332</a><a href="tel: 8910420434"> 8910420434</a><a href="tel: 8910220680"> 8910220680</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 13:51:52</th></tr>
-<tr><th>Availability Status</th><th>Info Missing</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3> Info Missing</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Contact number </th><th><a href="tel:6291413659">6291413659</a><a href="tel: 7063079934"> 7063079934</a><a href="tel: 7980081357"> 7980081357</a><a href="tel: 9163696301"> 9163696301</a><a href="tel: 9933714451"> 9933714451</a><a href="tel: 7063079934"> 7063079934</a><a href="tel:7872920080 ">7872920080 </a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/6/2021 13:51:26</th></tr>
-<tr><th>Availability Status</th><th>Info Missing</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Ghyansham</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Location</th><th>Barrackpore</th></tr>
-<tr><th>Contact number </th><th><a href="tel:6290007276">6290007276</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/8/2021 11:35:30</th></tr>
-<tr><th>Availability Status</th><th>Unavailable</th></tr>
-</table></div></div>
-<div class="card_nav">
-<h3>Bittu</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>Contact number </th><th><a href="tel:9007882261">9007882261</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/7/2021 18:27:41</th></tr>
-<tr><th>Availability Status</th><th>Undetermined</th></tr>
 </table></div></div>
 </div>
 </div> <br><br>
-<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>
+<h4> Data updated at: 2021:05:10 11:40:24 IST +0530 </h4>

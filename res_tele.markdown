@@ -3,7 +3,7 @@ layout: card
 title: Doctor Tele-consultation
 permalink: /tele/
 ---
-<h3> Available leads: 19</h3><div align="center">
+<div align="center">
  <div class="btn-group">
 <a href="{{ "/tele/Alipurduar" | relative_url}}" class="button"><button>Alipurduar</button></a>
 <a href="{{ "/tele/Bankura" | relative_url}}" class="button"><button>Bankura</button></a>
@@ -30,4 +30,4 @@ permalink: /tele/
 <a href="{{ "/tele/Uttar-Dinajpur-North-Dinajpur" | relative_url}}" class="button"><button>Uttar Dinajpur (North Dinajpur)</button></a>
 </div>
 </div>
-<h4> Data updated at: 2021:05:08 13:35:26 IST +0530 </h4>
+<h4> Data updated at: 2021:05:10 11:40:24 IST +0530 </h4>

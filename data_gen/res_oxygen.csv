@@ -1,72 +1,32 @@
 ,District,Name of the Organisation/Contact Person ,Location,Contact number ,Verification  Status,Verification time,Availability Status
-75,Hooghly,Vishnu priya medical ,Banamalipur,9433334365,Verified,5/8/2021 10:43:48,Unavailable
-76,Hooghly,Suvendu Oxygen,Uttarpara-Magra,9830383445,Verified,5/8/2021 10:44:00,Unavailable
-77,Hooghly,Shome Pharmacy,Sahaganj,9432257213,Verified,5/8/2021 10:45:09,Will be available soon
-78,Hooghly,Bala Kaku Gas,Rishra,8337073311,Verified,5/8/2021 10:45:26,Unavailable
-79,Kolkata,Riya Gas Agency , Info Missing,9832038638,Verified,5/8/2021 10:47:34,Will be available soon
-80,Kolkata,Not available,Kolkata,7003656667,Verified,5/8/2021 10:47:57,Available
-81,Kolkata,Hindustan Gases (Beliaghata),Beliaghata,9830560234,Verified,5/8/2021 10:50:37,Will be available soon
-82,Kolkata,Helathy Minds Yoga, Info Missing,7003425147,Verified,5/8/2021 11:25:03,Will be available soon
-83,Kolkata,No name,Jadavpur selimpur  Tollygunge,9830025229,Verified,5/7/2021 11:48:04,Available
-84,Kolkata,Sumit,Gariahat,7866833414,Verified,5/7/2021 11:48:18,Available
-85,Kolkata,no name,Jadavpur,9830048199,Verified,5/7/2021 11:48:22,Unavailable
-86,Kolkata, Info Missing,Jadavpur ,918961972733,Verified,5/7/2021 11:49:30,Available
-87,Kolkata, Info Missing,Hazra,916290182746,Verified,5/7/2021 11:49:45,Available
-88,Kolkata,No name. Oxygen refill only,Mukundupur  opposite of R.N.Tagore hospital,7890629585,Verified,5/7/2021 0:51:21,Available
-90,North 24 Parganas,Pharmaco ,Dumdum,9800055678  7980352250,Verified,5/7/2021 11:51:57,Unavailable
-91,North 24 Parganas,no name,Dumdum,9433119656,Verified,5/7/2021 11:53:11,Unavailable
-92,North 24 Parganas,Not available,Dumdum/ Laketown,6289235283,Verified,5/7/2021 11:53:20,Available
-93,North 24 Parganas,Name Unknown,Dumdum,9073562583,Verified,5/7/2021 11:54:17,Unavailable
-94,North 24 Parganas,No name,Maniktala,9830148536,Verified,5/7/2021 11:54:20,Will be available soon
-95,North 24 Parganas,Sudip,Khayramari,8918071202,Verified,5/7/2021 11:54:47,Undetermined
-96,North 24 Parganas,Disha medical ,Beri Pachpota ,9775232359,Verified,5/7/2021 11:55:53,Unavailable
-97,North 24 Parganas,Unknown name,Bongaon,9933152311,Verified,5/7/2021 13:08:05,Unavailable
-98,North 24 Parganas,Bhola da,Bongaon,9333931515,Verified,5/7/2021 13:08:11,Unavailable
-99,North 24 Parganas,Trilaya medical,Gopalnagar,9733812238,Verified,5/7/2021 13:08:19,Unavailable
-100,North 24 Parganas,Sarkar medical ,Bongaon ,9064542568,Verified,5/7/2021 13:08:36,Unavailable
-101,North 24 Parganas,Gayitri Medicine ,Madhyamgram ,9874136943,Verified,5/7/2021 13:09:02,Unavailable
-102,North 24 Parganas,Gopikaka,Bisharpara/Michelnagar,9830361704,Verified,5/7/2021 13:09:52,Unavailable
-103,North 24 Parganas,Ghyanshyam,Madhyamgram ,6290007276,Verified,5/7/2021 13:10:26,Unavailable
-104,North 24 Parganas,Not available,Keshtopur,9331030293,Verified,5/7/2021 18:02:33,Unavailable
-105,North 24 Parganas,Not available,Karunamoyee,7439977545,Verified,5/7/2021 13:12:13,Unavailable
-106,North 24 Parganas,Not available,Baguiati,9831514085,Verified,5/7/2021 13:13:52,Unavailable
-107,North 24 Parganas, Info Missing,Shyamnagar,6290490078,Verified,5/8/2021 10:52:54,Available
-108,North 24 Parganas,Not known,Dumdum,7003656667,Verified,5/8/2021 10:53:07,Available
-109,North 24 Parganas,tarun sangha club,Birati  opposite nimta thana,8617274695,Verified,5/8/2021 10:53:59,Available
-110,North 24 Parganas,Suman Kundu,Baranagar,7980733913,Verified,5/8/2021 10:54:36,Available
-111,North 24 Parganas,no name,barasat,8617608842,Verified,5/8/2021 10:55:11,Available
-112,North 24 Parganas,Unknown,Dum Dum,7003656667,Verified,5/8/2021 10:55:44,Available
-113,South 24 Parganas, Info Missing,Garia,9836656427,Verified,5/8/2021 10:56:58,Available
-114,South 24 Parganas,Deep Sundar,Garia,9831143338,Verified,5/8/2021 11:01:58,Unavailable
-115,South 24 Parganas,Bhadreswar,Sonarpur,7003473393,Verified,5/8/2021 10:58:47,Available
-116,Murshidabad,Khudiram pathagar jayanta das,Berhampore,9093221441,Verified,5/8/2021 11:00:36,Unavailable
-117,Murshidabad,OPD,Murshidabad ,7548000177,Verified,5/8/2021 11:00:36,Unavailable
-118,Murshidabad,Kausar alam,Farakka,9434101716,Verified,5/8/2021 11:00:42,Available
-119,Paschim Bardhaman,Raju ghosh,Durgapur,7679761578,Verified,5/8/2021 11:28:26,Unavailable
-120,Paschim Bardhaman, ,Benachiti Durgapur,8513814513,Verified,5/8/2021 11:29:15,Unavailable
-121,Purulia,Jay Jawan club,Purulia,8637376638,Verified,5/8/2021 11:29:15,Unavailable
-122,Purulia,Joydeep Sinha Vanas,Purulia,9382699290,Verified,5/7/2021 18:18:31,Available
-123,Purulia,Ram Sao,Location will Be shared by provider,9932220655,Verified,5/7/2021 18:18:53,Available
-124,Purulia,Bijoy santikati , Info Missing,9749387245,Verified,5/5/2021 14:01:49,Unavailable
-125,Purulia,Biman Goswami ,PURULIA Town ,8391058036,Verified,5/7/2021 18:20:20,Unavailable
-126,Purulia, Info Missing,PURULIA  GD Collage More  Ram er Dokan,7001354085,Verified,5/7/2021 18:20:34,Unavailable
-127,Birbhum,Sri Gopal Pharmacy,Bolpur,9800192590,Verified,5/8/2021 11:31:45,Unavailable
-128,Birbhum,Madrasapalli,Near Jambuni Bus Stand,7584850123,Verified,5/7/2021 18:21:30,Available
-129,Birbhum,Rahul, Info Missing,7430903557,Verified,5/7/2021 18:21:46,Available
-130,Birbhum,Bolpur Municipality,Bolpur,03463252501  03463254870,Verified,5/7/2021 18:22:09,Unavailable
-131,Birbhum,N A,Bolpurer,9434326341,Verified,5/7/2021 18:22:16,Unavailable
-132,Darjeeling,No name,Siliguri,9635967780,Verified,5/8/2021 11:32:54,Unavailable
-133,Alipurduar,Lions Eye Hospital,Alipurduar,8001720684,Verified,5/8/2021 11:32:55,Unavailable
-134,Jalpaiguri,Ankur Das (Green Jalpaiguri),In and around NJP,8101484889,Verified,5/7/2021 18:23:29,Available
-135, Info Missing,Axiom devices, Info Missing,9830025229,Verified,5/8/2021 11:34:30,Available
-136, Info Missing,Ghyansham,Barrackpore,6290007276,Verified,5/8/2021 11:35:30,Unavailable
-137, Info Missing,Bittu, Info Missing,9007882261,Verified,5/7/2021 18:27:41,Undetermined
-138, Info Missing, Info Missing, Info Missing,9933714451  9635398332  8910420434  8910220680,Verified,5/7/2021 13:51:52,Info Missing
-139, Info Missing, Info Missing, Info Missing,6291413659  7063079934  7980081357  9163696301  9933714451  7063079934 7872920080 ,Verified,5/6/2021 13:51:26,Info Missing
-140,Kolkata, Info Missing, Info Missing,#ERROR!,Verified,5/7/2021 14:26:54,Available
-141,Kolkata,Sayani,Baghajatin,9748683892,Verified,5/8/2021 11:38:31,Available
-142,Kolkata,Oxygen on Wheels, Info Missing,7044041010  7044041015,Verified,5/8/2021 11:39:55,Available
-143,North 24 Parganas, Info Missing,Madhyamgram,9804454161,Verified,5/8/2021 11:39:55,Available
-144,Kolkata,Near beniapukur library, Info Missing,9163607069,Verified,5/8/2021 11:39:55,Unavailable
-145,Purba Medinipur,Government,Tamluk,7364045140,Verified,5/8/2021 11:34:32,Available
-168,North 24 Parganas,Sanjib dey,DUNLOP  BARANAGAR,9432362856,Verified,5/2/2021 13:38:30,Info Missing
+6,Hooghly,Agarwal Medical,Serampore,9038840685  9874539132  9804006628,Verified,5/10/2021 10:42:51,Available
+7,Hooghly,Loha Singh,Rishra,9230833509,Verified,5/10/2021 10:42:51,Available
+8,Howrah,Subhadip,Uluberia,7557077073,Verified,5/10/2021 10:44:25,Available
+9,Howrah,Not known,Uluberia,9748774955,Verified,5/10/2021 10:44:43,Available
+10,Howrah,no name,Howrah near don Bosco,7980535835,Verified,5/10/2021 10:45:04,Available
+11,Kolkata,Not available,Kolkata,7003656667,Verified,5/10/2021 10:45:38,Available
+12,Kolkata,Tablet Pharmacy,Kolkata,9089085252,Verified,5/10/2021 10:46:18,Available
+13,Kolkata,Helathy Minds Yoga, Info Missing,7003425147,Verified,5/10/2021 10:48:15,Available
+14,Kolkata,no name,Hindustan park ,9051653106,Verified,5/10/2021 10:48:47,Available
+15,Kolkata,Swapan Kumar Panda,Baghajatin,8017711721,Verified,5/10/2021 10:49:06,Available
+16,Kolkata,no name,Hazra,916290182746,Verified,5/10/2021 10:52:41,Available
+17,Kolkata,Unknown,Behala,90518 74959  70035 37716,Verified,5/10/2021 10:52:50,Available
+18,Kolkata,Molina shikdal,Mukundupur  opposite of R.N.Tagore hospital,7890629585,Verified,5/10/2021 10:53:00,Available
+19,North 24 Parganas,tarun sangha club,Birati  opposite nimta thana,8617274695,Verified,5/10/2021 11:00:01,Available
+20,North 24 Parganas,Suman Kundu,Baranagar,7980733913,Verified,5/10/2021 11:00:15,Available
+21,Murshidabad,Kausar alam,Farakka,9434101716,Verified,5/8/2021 11:00:42,Available
+22,Paschim Bardhaman,Rv chandan,Durgapur,9647272727,Verified,5/9/2021 11:22:11,Available
+23,Purulia,Joydeep Sinha Vanas,Purulia,9382699290,Verified,5/9/2021 11:24:10,Available
+24,Purulia,Ram Sao,Location will Be shared by provider,9932220655,Verified,5/9/2021 11:24:32,Available
+25,Purulia,Biman Goswami ,PURULIA Town ,8391058036,Verified,5/7/2021 18:20:20,Available
+26,Purulia,no name,PURULIA  GD Collage More  Ram er Dokan,7001354085,Verified,5/9/2021 11:25:39,Available
+27,Birbhum,Rahul, Info Missing,7430903557,Verified,5/9/2021 11:27:02,Available
+28,Birbhum,N A,Bolpurer,9434326341,Verified,5/9/2021 11:28:26,Available
+29,Jalpaiguri,Ankur Das (Green Jalpaiguri),In and around NJP,8101484889,Verified,5/10/2021 11:04:38,Available
+30,Kolkata,Ranmay Saha,Kolkata,9696022022,Verified,5/10/2021 11:08:50,Available
+31,Kolkata,Sayani,Baghajatin,9748683892,Verified,5/10/2021 11:09:12,Available
+32,Kolkata,Oxygen on Wheels, Info Missing,7044041010  7044041015,Verified,5/10/2021 11:09:26,Available
+33,Purba Medinipur,Government,Tamluk,7364045140,Verified,5/10/2021 11:10:05,Available
+34,Kolkata,Behandala hospital,Behala,6290619696,Verified,5/10/2021 11:10:31,Available
+35,Kolkata,no name,Jadavpur,8961972733,Verified,5/10/2021 11:11:23,Available
+36,Hooghly, Info Missing,Konnagar,7003092869,Verified,5/10/2021 9:11:15,Available
