@@ -2,3 +2,5 @@
 res*_*markdown
 *csv
 _site/*
+data_gen/*csv 
+data_gen/*markdown
