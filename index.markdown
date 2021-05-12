@@ -21,7 +21,6 @@ Debjyoti Bhattacharjee is a Research and Development engineer at Compute System 
 
 <div align="center">
 <br><br>
- <!-- <div class="btn-group"> -->
 <a href="{{ "/Admission/" | relative_url}}" >
     <div class="card">
         <h4><b>Hospital Bed</b></h4>
@@ -57,5 +56,4 @@ Debjyoti Bhattacharjee is a Research and Development engineer at Compute System 
         <h4><b>Ambulance</b></h4>
     </div>
 </a>
-<!-- </div>  -->
 </div>
