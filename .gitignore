@@ -4,3 +4,4 @@ res*_*markdown
 _site/*
 data_gen/*csv 
 data_gen/*markdown
+data_gen/token*json
