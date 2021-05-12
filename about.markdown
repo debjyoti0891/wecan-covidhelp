@@ -12,6 +12,7 @@ If you are interested, please contribute verified resource leads with our <a hre
 
 <div class="text_reg"><p align="justify" class="introtext" style="color:red;"> We do our best to provide real time accurate information however we heavily depend on external data for it. We cannot guarantee accuracy of the data. We urge visitors to verify the authenticity and accuracy on their own before taking any decisions. We are a volunteer group that is trying to help the citizens with as much available information as we can. We are not responsible for the data itself. </p></div>
 
+<a id="disclaimer_id">
 ### Disclaimer/Terms of website
 <div class="text_foot">
 Last updated: May 5, 2021<br>

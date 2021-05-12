@@ -20,8 +20,9 @@
 
 title:  WBCAN
 author:
+  disclaimer: /about/#disclaimer_id 
   email: 
-  name: WBCAN
+  name: WBCAN Copyright © 2021
 tagline:  West Bengal Covid Aid Network (WBCAN)  
 description: >- 
   Connecting verified resource information with patients in need. 

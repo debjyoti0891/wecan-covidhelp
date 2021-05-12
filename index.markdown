@@ -20,7 +20,7 @@ Debjyoti Bhattacharjee is a Research and Development engineer at Compute System 
 <div class="introtext"> The West Bengal Covid Aid Network (WBCAN) is a citizen's initiative to try and put together resources for Covid patients across the whole of West Bengal. </div>
 
 <div align="center">
- <div class="btn-group">
+ <!-- <div class="btn-group">
 <a href="{{ "/Admission/" | relative_url}}" ><button class="button1">Hospital Bed</button></a>
 <a href="{{ "/oxygen/" | relative_url}}" ><button class="button2">Oxygen</button></a>
 <a href="{{ "/test/" | relative_url}}" ><button class="button1">Covid Test</button></a>
@@ -28,5 +28,40 @@ Debjyoti Bhattacharjee is a Research and Development engineer at Compute System 
 <a href="{{ "/tele/" | relative_url}}" ><button class="button1">Doctor</button></a>
 <a href="{{ "/food/" | relative_url}}" ><button class="button2">Food</button></a>
 <a href="{{ "/ambulance/" | relative_url}}" ><button class="button1">Ambulance</button></a>
-</div> 
+</div>  -->
+<a href="{{ "/Admission/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Hospital Bed</b></h4>
+    </div>
+</a>
+<a href="{{ "/oxygen/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Oxygen</b></h4>
+    </div>
+</a>
+<a href="{{ "/test/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Covid Test</b></h4>
+    </div>
+</a>
+<a href="{{ "/blood/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Blood and Plasma</b></h4>
+    </div>
+</a>
+<a href="{{ "/tele/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Doctor</b></h4>
+    </div>
+</a>
+<a href="{{ "/food/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Food</b></h4>
+    </div>
+</a>
+<a href="{{ "/ambulance/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Ambulance</b></h4>
+    </div>
+</a>
 </div>
