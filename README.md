@@ -1,5 +1,6 @@
 # WBCAN webpage
-
+### Update [May 13]
++ social media pages buttons  added to the footer
 
 ### Updates [May 12]
 + New buttons on home page and district page are now live @Arka

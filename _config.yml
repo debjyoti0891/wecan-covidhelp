@@ -32,6 +32,8 @@ url: "http://www.wbcan.org" # the base hostname & protocol for your site, e.g. h
 minima:
   social_links:
     github:  "debjyoti0891/wecan-covidhelp"
+    facebook: "groups/338484847687812/"
+    instagram: "wbcan_official"
 
 
 # Build settings
