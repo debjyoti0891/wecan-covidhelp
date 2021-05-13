@@ -4,7 +4,6 @@ title: Hospital Beds
 permalink: /Admission/
 ---
 <div align="center">
-<br><br>
 <a href="{{ "/Admission/Birbhum" | relative_url}}" >
     <div class="card">
         <h4><b>Birbhum</b></h4>
@@ -20,6 +19,9 @@ permalink: /Admission/
         <h4><b>Kolkata</b></h4>
     </div>
 </a>
-
 </div>
+<div style="margin-top: 20px;
+            text-align: left;
+  			border: none;">
 <h4> Data updated at: 2021:05:10 11:40:24 IST +0530 </h4>
+</div>
