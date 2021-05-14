@@ -57,10 +57,14 @@ def genDistrict(category, category_desc, districts, available_res):
     for dis in districts:
         dis_link = genUrl(dis)
         # fin_str = fin_str + '<a href="{{ "/' + category+'/'+ dis_link + '" | relative_url}}" class="button"><button>' + dis +'</button></a>\n'  
-        fin_str = fin_str + '<a href="{{ "/' + category+'/'+ dis_link + '" | relative_url}}" ><div class="card"><h4><b>' + dis +'</b></h4></div></a>\n'  
-    
-    fin_str = fin_str + '\n</div>\n<div class="text_foot"> Data updated at: {:%d, %b %Y} </div>'.format(datetime_ist) 
+        # <a href="{{ "/Admission/Alipurduar" | relative_url}}" ><div class="card"><h4><b>Alipurduar</b></h4></div></a>
 
+        #fin_str = fin_str + '<a href="{{ "/' + category+'/'+ dis_link + '" | relative_url}}" ><div class="card"><h4><b>' + dis +'</b></h4></div></a>\n'  
+        fin_str = fin_str + '<a href="{{ "/' + category + '/'+ dis_link + '" | relative_url}}" ><div class="card"><h4><b>' + dis + '</b></h4></div></a>\n'
+
+    fin_str = fin_str + '<div style="margin-top: 20px; text-align: left; border: none;">\n' 
+    fin_str = fin_str + '\n</div>\n<div class="text_foot"> Data updated at: {:%d, %b %Y} </div>'.format(datetime_ist) 
+    fin_str = fin_str + '</div>'
     with open('res_'+category+'.markdown', 'w') as f:
         f.write(fin_str) 
 
@@ -156,9 +160,9 @@ for category in category_desc.keys():
                     body = body + getString(c, row[c]) #f'<tr><th>{c}</th><th>{row[c]}</th></tr>\n'
             body = body + '</table></div></div>\n'
 
-
-        footer = '</div>\n</div> <br><br>\n<div class="text_foot"> Data updated at: {:%d, %b %Y} </div>'.format(datetime_ist)
-
+        footer = '</div>\n </div>\n <div style="margin-top: 20px; text-align: left; border: none;">\n'
+        footer = footer + '\n <br><br>\n<div class="text_foot"><h4> Data updated at: {:%d, %b %Y %H:%M} </h4> </div></div>'.format(datetime_ist)
+        
         with open('res'+'_'+category+'_'+sel_district+'.markdown', 'w') as f:
             f.write(header+body+footer)
         available_districts.append(sel_district)
