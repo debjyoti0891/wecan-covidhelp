@@ -5,3 +5,6 @@ _site/*
 data_gen/*csv 
 data_gen/*markdown
 data_gen/token*json
+# Default ignored files
+/shelf/
+.idea
