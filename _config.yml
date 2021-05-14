@@ -34,6 +34,7 @@ minima:
     github:  "debjyoti0891/wecan-covidhelp"
     facebook: "groups/338484847687812/"
     instagram: "wbcan_official"
+    twitter: "WBCAN2"
 
 
 # Build settings
@@ -47,9 +48,10 @@ disqus:
   shortname: bdebjyoti
 
 header_pages:
-  - contribute.markdown
+  
   - resources.markdown
   - faq.markdown
+  - contribute.markdown
   - about.markdown
 
   # - oxygen.markdown

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 <span class="headHi">WECAN</span><br>
 
 <p align="justify" class="introtext">  The West Bengal Covid Aid Network (WBCAN) is a citizen's initiative to try and put together resources for Covid patients across the whole of West Bengal. We are constantly verifying and updating leads of various healthcare services for every district. We were featured in <a href="https://timesofindia.indiatimes.com/city/kolkata/volunteers-sift-social-media-posts-to-connect-those-in-need-with-genuine-covid-resources/articleshow/82376772.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile">Times Of India</a>.
 
-If you are interested, please contribute verified resource leads with our <a href="{{ "/contribute/" | relative_url }}">form</a>.  </p>
+If you are interested to help us, please register as a volunteer using the <a href="{{ "/contribute/" | relative_url }}">form</a>.  </p>
 
 
 <div class="text_reg"><p align="justify" class="introtext" style="color:red;"> We do our best to provide real time accurate information however we heavily depend on external data for it. We cannot guarantee accuracy of the data. We urge visitors to verify the authenticity and accuracy on their own before taking any decisions. We are a volunteer group that is trying to help the citizens with as much available information as we can. We are not responsible for the data itself. </p></div>

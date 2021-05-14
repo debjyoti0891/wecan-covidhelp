@@ -1,4 +1,15 @@
 # WBCAN webpage
+
+### Update [May 14]
++ Button changes in home and second level screens complete
++ Time stamp alignment updated
++ Now date/time is mentioned in the timestamp on the resource page
++ New volunteer form is now up : https://forms.gle/Svp94k1YXF31ejWN8
++ Leads form has been removed.
++ Minor changes to the menu items 
++ Added twitter link to the webpage
+
+
 ### Update [May 13]
 + social media pages buttons  added to the footer
 

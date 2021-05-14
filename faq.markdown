@@ -1,5 +1,5 @@
 ---
 layout: blog_home
-title: FAQ
+title: Covid-19 FAQ
 permalink: /faq/
 ---
