@@ -1,0 +1,7 @@
+numpy==1.18.1
+humanize==3.5.0
+google_auth_oauthlib==0.4.4
+pytz==2018.3
+pandas==0.25.3
+google_api_python_client==2.4.0
+protobuf==3.17.0
