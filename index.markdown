@@ -56,4 +56,25 @@ Debjyoti Bhattacharjee is a Research and Development engineer at Compute System 
         <h4><b>Ambulance</b></h4>
     </div>
 </a>
+
+<a href="{{ "/Medicine/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Medicine</b></h4>
+    </div>
+</a>
+
+<a href="{{ "/Quarantine/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Quarantine & Home Care</b></h4>
+    </div>
+</a>
+
+<a href="{{ "/volunteer/" | relative_url}}" >
+    <div class="card">
+        <h4><b>Volunteers</b></h4>
+    </div>
+</a>
+
+
+
 </div>

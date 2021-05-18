@@ -4,6 +4,7 @@ title: Ambulance
 permalink: /ambulance/
 ---
 <div align="center">
+<a href="{{ "/ambulance/Hooghly" | relative_url}}" ><div class="card"><h4><b>Hooghly</b></h4></div></a>
 <a href="{{ "/ambulance/Howrah" | relative_url}}" ><div class="card"><h4><b>Howrah</b></h4></div></a>
 <a href="{{ "/ambulance/Kolkata" | relative_url}}" ><div class="card"><h4><b>Kolkata</b></h4></div></a>
 <a href="{{ "/ambulance/North-24-Parganas" | relative_url}}" ><div class="card"><h4><b>North 24 Parganas</b></h4></div></a>
@@ -11,4 +12,4 @@ permalink: /ambulance/
 <div style="margin-top: 20px; text-align: left; border: none;">
 
 </div>
-<div class="text_foot"> Data updated at: 14, May 2021 </div></div>
+<div class="text_foot"> Data updated at: 18, May 2021 </div></div>

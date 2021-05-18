@@ -26,9 +26,11 @@ df.loc[df['Availability Status']=='Will be available soon'] = 'Available soon'
 print(set(list(df['Availability Status'] )))
 resource = 'res'
 category_desc = OrderedDict({'Admission':"Hospital Beds", 'oxygen': "Oxygen supplies", 'blood': "Blood and Plasma", 
-                'test': "Covid Testing",  'tele': "Doctor Tele-consultation",'food': "Food", 'ambulance': "Ambulance" })
+                'test': "Covid Testing",  'tele': "Doctor Tele-consultation",'food': "Food", 'ambulance': "Ambulance",
+                "Quarantine": "Quarantine & Home Care", "Medicine": "Medicine Delivery", "volunteer": "Volunteer" })
 short_desc = OrderedDict({'Admission':"Hospital Beds",  'oxygen': "Oxygen", 
-                'test': "Covid Test", 'blood': "Blood and Plasma", 'tele': "Doctor", 'food': "Food", 'ambulance': "Ambulance"})
+                'test': "Covid Test", 'blood': "Blood and Plasma", 'tele': "Doctor", 'food': "Food", 'ambulance': "Ambulance",
+                "Quarantine": "Quarantine & Home Care", "Medicine": "Medicine", "volunteer": "Volunteer"  })
 # decide what are the resources 
 
     
@@ -109,9 +111,9 @@ for category in category_desc.keys():
     sub_df = df[df['Facility provided'].str.contains(cat_str, case=False)]
     
         
-    
+    # ['Facility provided', 'District', 'Name of the Organisation/Contact Person', 'Location', 'Contact number', 'Verification  Status', 'Verification time', 'Availability Status', 'Info Missing']
     # print(sub_df.columns)
-    fin_sub_df = sub_df[['District','Name of the Organisation/Contact Person ','Location','Contact number ','Verification  Status','Verification time','Availability Status']].to_csv(sep='|')
+    fin_sub_df = sub_df[['District','Name of the Organisation/Contact Person','Location','Contact number','Verification  Status','Verification time','Availability Status']].to_csv(sep='|')
     fin_sub_df = fin_sub_df.replace(',',' ')
     fin_sub_df = fin_sub_df.replace('|',',')
     with open('res'+'_'+category+'.csv', 'w') as f:
@@ -135,7 +137,7 @@ for category in category_desc.keys():
         header = f"---\nlayout: card\ntitle: {category_desc[category]}\npermalink: /{category}/{dis_link}\n---\n"
         body = '<div class="row">\n\t<div class="column">\n'
         # iterate over each row and generate one card 
-        req_cols = ['Name of the Organisation/Contact Person ','District','Location','Contact number ','Verification  Status','Verification time','Availability Status']
+        req_cols = ['Name of the Organisation/Contact Person','District','Location','Contact number','Verification  Status','Verification time','Availability Status']
         for i,row in dis_sub_df.iterrows():
             if row['Availability Status'] == 'Available':
                 card_class = 'card_av'
@@ -150,7 +152,7 @@ for category in category_desc.keys():
                 body = body + f'<tr><th>Resource</th><th>{row["Facility provided"].title()}</th></tr>\n'
 
             for c in req_cols[1:]:
-                if c == 'Contact number ':
+                if c == 'Contact number':
                     contacts = str(row[c]).split(',')
                     body = body + f'<tr><th>{c}</th><th>'
                     for contact in contacts:

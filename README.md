@@ -1,5 +1,13 @@
 # WBCAN webpage
 
+### Update [May 18]
++ Volunteer list is now being shown on the webpage
+
+### Update [May 17]
++ Quarantine centers are now up
++ Cron job is working perfectly to update the page
++ 6k visitors reached! 
+
 ### Update [May 14]
 + Button changes in home and second level screens complete
 + Time stamp alignment updated

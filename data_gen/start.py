@@ -22,6 +22,7 @@ from google.oauth2.credentials import Credentials
 
 
 import pandas as pd 
+import re
 
 MISSING_INFO = ' Info Missing' # Modify this in the split_data as well
 # If modifying these scopes, delete the file token.json.
@@ -85,7 +86,15 @@ def main():
             for i,v in enumerate(row):
                 if '\n' in v:
                     row[i] = " ".join(v.split())
-            data.append(row)
+            new_row = []
+            for v in row:
+                encoded_string = v.encode("ascii", "ignore")
+                decode_string = encoded_string.decode()
+                val = re.sub(r'[^A-Za-z0-9  ,/:]+', '', decode_string)
+                val = val.strip()
+                new_row.append(val)
+            #print(new_row)
+            data.append(new_row)
         
         df = pd.DataFrame(data[1:], columns = data[0])
         

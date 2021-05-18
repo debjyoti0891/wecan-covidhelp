@@ -10,7 +10,8 @@ permalink: /test/
 <a href="{{ "/test/Howrah" | relative_url}}" ><div class="card"><h4><b>Howrah</b></h4></div></a>
 <a href="{{ "/test/Kolkata" | relative_url}}" ><div class="card"><h4><b>Kolkata</b></h4></div></a>
 <a href="{{ "/test/North-24-Parganas" | relative_url}}" ><div class="card"><h4><b>North 24 Parganas</b></h4></div></a>
+<a href="{{ "/test/Purba-Burdwan-Bardhaman" | relative_url}}" ><div class="card"><h4><b>Purba Burdwan (Bardhaman)</b></h4></div></a>
 <div style="margin-top: 20px; text-align: left; border: none;">
 
 </div>
-<div class="text_foot"> Data updated at: 14, May 2021 </div></div>
+<div class="text_foot"> Data updated at: 18, May 2021 </div></div>
