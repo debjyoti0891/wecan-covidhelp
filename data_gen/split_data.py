@@ -135,7 +135,10 @@ for category in category_desc.keys():
         
         dis_link = genUrl(sel_district)
         header = f"---\nlayout: card\ntitle: {category_desc[category]}\npermalink: /{category}/{dis_link}\n---\n"
-        body = '<div class="row">\n\t<div class="column">\n'
+        body = '\n <div style="margin-top: 20px; text-align: left; border: none;">\n'
+        body = body +  '\n <br><br>\n<div class="text_foot"><h4> Data updated at: {:%d, %b %Y %H:%M}. DISCLAIMER: All of these resources provided on an “as and when basis” and “as in” based on a fact check done by volunteers who are dedicated to help individuals and families in such challenging times. By using these resources, you are agreeing that WBCAN, however, do not accept any responsibility or liability for the accuracy, content, completeness, legality or reliability of the information contained in any of these. </h4> </div></div>\n'.format(datetime_ist)
+        body = body + '<div class="row">\n\t<div class="column">\n'
+
         # iterate over each row and generate one card 
         req_cols = ['Name of the Organisation/Contact Person','District','Location','Contact number','Verification  Status','Verification time','Availability Status']
         for i,row in dis_sub_df.iterrows():
@@ -162,8 +165,7 @@ for category in category_desc.keys():
                     body = body + getString(c, row[c]) #f'<tr><th>{c}</th><th>{row[c]}</th></tr>\n'
             body = body + '</table></div></div>\n'
 
-        footer = '</div>\n </div>\n <div style="margin-top: 20px; text-align: left; border: none;">\n'
-        footer = footer + '\n <br><br>\n<div class="text_foot"><h4> Data updated at: {:%d, %b %Y %H:%M} </h4> </div></div>'.format(datetime_ist)
+        footer = '</div>\n </div>'
         
         with open('res'+'_'+category+'_'+sel_district+'.markdown', 'w') as f:
             f.write(header+body+footer)

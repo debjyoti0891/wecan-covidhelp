@@ -1,5 +1,7 @@
 # WBCAN webpage
 
+### Update [May 19]
++ Disclaimer is now on every page
 ### Update [May 18]
 + Volunteer list is now being shown on the webpage
 
