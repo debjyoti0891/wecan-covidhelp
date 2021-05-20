@@ -97,10 +97,10 @@ def getString(key, value):
 #     else:
 #         print(category, len(df)) 
     
-all_districts = ["Alipurduar","Bankura","Birbhum","Cooch Behar","Dakshin Dinajpur (South Dinajpur)","Darjeeling","Hooghly","Howrah","Jalpaiguri","Jhargram",\
-"Kalimpong","Kolkata","Malda","Murshidabad","Nadia","North 24 Parganas","Paschim Medinipur (West Medinipur)",\
-"Paschim (West) Burdwan (Bardhaman)","Purba Burdwan (Bardhaman)","Purba Medinipur (East Medinipur)","Purulia",\
-"South 24 Parganas", "Uttar Dinajpur (North Dinajpur)"]
+all_districts = ["Alipurduar","Bankura","Birbhum","Cooch Behar","Dakshin Dinajpur South Dinajpur","Darjeeling","Hooghly","Howrah","Jalpaiguri","Jhargram",\
+"Kalimpong","Kolkata","Malda","Murshidabad","Nadia","North 24 Parganas","Paschim Medinipur West Medinipur",\
+"Paschim Burdwan West Bardhaman","Purba Burdwan Bardhaman","Purba Medinipur East Medinipur","Purulia",\
+"South 24 Parganas", "Uttar Dinajpur North Dinajpur"]
 
 all_districts.sort()
 for category in category_desc.keys():
