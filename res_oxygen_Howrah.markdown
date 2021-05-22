@@ -4,14 +4,14 @@ title: Oxygen supplies
 permalink: /oxygen/Howrah
 ---
 
- <div style="margin-top: 20px; text-align: left; border: none;">
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search..">
- <br><br>
+<div style="margin-top: 20px; text-align: left; border: none;">
+	<input type="text" id="myInput" onkeyup="filterSearch()" placeholder="Search..">
+<br><br>
 <div class="text_foot"><h4> Data updated at: 21, May 2021 20:46. DISCLAIMER: All of these resources provided on an “as and when basis” and “as in” based on a fact check done by volunteers who are dedicated to help individuals and families in such challenging times. By using these resources, you are agreeing that WBCAN, however, do not accept any responsibility or liability for the accuracy, content, completeness, legality or reliability of the information contained in any of these. </h4> </div></div>
 <div class="row">
 <div class="column">
 
-<div class="card_av" id = "div1">
+<div class="card_av">
 	<h3>Referred By Saptak Das</h3>
 	<div class="info">
 		<table>
