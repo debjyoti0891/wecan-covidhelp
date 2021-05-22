@@ -7,9 +7,111 @@ permalink: /oxygen/Kolkata
  <div style="margin-top: 20px; text-align: left; border: none;">
 
  <br><br>
-<div class="text_foot"><h4> Data updated at: 21, May 2021 17:00. DISCLAIMER: All of these resources provided on an “as and when basis” and “as in” based on a fact check done by volunteers who are dedicated to help individuals and families in such challenging times. By using these resources, you are agreeing that WBCAN, however, do not accept any responsibility or liability for the accuracy, content, completeness, legality or reliability of the information contained in any of these. </h4> </div></div>
+<div class="text_foot"><h4> Data updated at: 22, May 2021 12:15. DISCLAIMER: All of these resources provided on an “as and when basis” and “as in” based on a fact check done by volunteers who are dedicated to help individuals and families in such challenging times. By using these resources, you are agreeing that WBCAN, however, do not accept any responsibility or liability for the accuracy, content, completeness, legality or reliability of the information contained in any of these. </h4> </div></div>
 <div class="row">
 	<div class="column">
+<div class="card_av">
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>New Town Area</th></tr>
+<tr><th>Contact number</th><th><a href="tel:18001037652">18001037652</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/22/2021 11:41:50</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Gurudwara Garcha Road</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>Gurudwara Garcha Road</th></tr>
+<tr><th>Contact number</th><th><a href="tel:9830920011">9830920011</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/22/2021 11:40:48</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Hello Beta</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>Gariahat</th></tr>
+<tr><th>Contact number</th><th><a href="tel:9696022022">9696022022</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/22/2021 11:37:53</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Gurudwara Behala</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Contact number</th><th><a href="tel:18002579655">18002579655</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/22/2021 11:31:15</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Somonnoy Raja</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>Ward 105/106/107/108</th></tr>
+<tr><th>Contact number</th><th><a href="tel:6289007703">6289007703</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/22/2021 11:26:55</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Mission Sans</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>New Town Hall  Tank No 12</th></tr>
+<tr><th>Contact number</th><th><a href="tel:9836687889 9831839683">9836687889 9831839683</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/21/2021 23:41:56</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Contact number</th><th><a href="tel:90 51 317265">90 51 317265</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/21/2021 21:55:29</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Anjan Majumder</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>Patuli</th></tr>
+<tr><th>Contact number</th><th><a href="tel:9830023540">9830023540</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/21/2021 21:16:23</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_av">
+<h3>Tameer Educational  Welfare Trust</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Location</th><th>32A, Rai Charan Ghosh Lane Kolkata39</th></tr>
+<tr><th>Contact number</th><th><a href="tel:7980049522">7980049522</a><a href="tel: 9038246331"> 9038246331</a><a href="tel: 8336882027"> 8336882027</a><a href="tel: 7003124446"> 7003124446</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/21/2021 20:09:01</th></tr>
+<tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
 <div class="card_av">
 <h3>Bablu Paul</h3>
 
@@ -407,18 +509,6 @@ permalink: /oxygen/Kolkata
 <tr><th>Availability Status</th><th>Available</th></tr>
 </table></div></div>
 <div class="card_av">
-<h3>Tanay De</h3>
-
-<div class="info"><table>
-<tr><th>Resource</th><th>Oxygen</th></tr>
-<tr><th>District</th><th>Kolkata</th></tr>
-<tr><th>Location</th><th>Baranagar</th></tr>
-<tr><th>Contact number</th><th><a href="tel:7003175025">7003175025</a></th></tr>
-<tr><th>Verification  Status</th><th>Verified</th></tr>
-<tr><th>Verification time</th><th>5/19/2021 16:02:47</th></tr>
-<tr><th>Availability Status</th><th>Available</th></tr>
-</table></div></div>
-<div class="card_av">
 <h3>Bishnu Biswas</h3>
 
 <div class="info"><table>
@@ -489,6 +579,28 @@ permalink: /oxygen/Kolkata
 <tr><th>Verification  Status</th><th>Verified</th></tr>
 <tr><th>Verification time</th><th>5/16/2021 16:39:47</th></tr>
 <tr><th>Availability Status</th><th>Available</th></tr>
+</table></div></div>
+<div class="card_nav">
+<h3>Kundu Pharmacy</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Contact number</th><th><a href="tel:9830067018">9830067018</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/21/2021 21:15:05</th></tr>
+<tr><th>Availability Status</th><th>Unavailable</th></tr>
+</table></div></div>
+<div class="card_nav">
+<h3>Ujjwal</h3>
+
+<div class="info"><table>
+<tr><th>Resource</th><th>Oxygen</th></tr>
+<tr><th>District</th><th>Kolkata</th></tr>
+<tr><th>Contact number</th><th><a href="tel:7059323029">7059323029</a></th></tr>
+<tr><th>Verification  Status</th><th>Verified</th></tr>
+<tr><th>Verification time</th><th>5/21/2021 21:14:20</th></tr>
+<tr><th>Availability Status</th><th>Unavailable</th></tr>
 </table></div></div>
 <div class="card_nav">
 <h3>S Naskar</h3>

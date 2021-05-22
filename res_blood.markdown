@@ -9,4 +9,4 @@ permalink: /blood/
 <div style="margin-top: 20px; text-align: left; border: none;">
 
 </div>
-<div class="text_foot"> Data updated at: 21, May 2021 </div></div>
+<div class="text_foot"> Data updated at: 22, May 2021 </div></div>
