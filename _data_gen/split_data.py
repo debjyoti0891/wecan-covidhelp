@@ -8,7 +8,10 @@ import humanize
 from nanoid import generate
 
 
-def get_function_syntax(copyText, copy_id):
+def get_function_syntax(req_cols, row, copy_id):
+    copyText = ""
+    for col in req_cols:
+        copyText += f"{col}: {row[col]}, "
     return "(function(){ return copyToClipboard(\'" + copyText + "\', '" + copy_id + "');})()"
 
 
@@ -82,7 +85,7 @@ def getString(key, value):
     value = str(value).lower()
     if value.strip() in ['na', '', 'nan', 'unknown', 'not known', 'not available', MISSING_INFO.lower().strip()] :
         return ''
-    return  f'<tr><th>{key}</th><th>{str(value).title()}</th></tr>\n'
+    return  f'<p class="resource-info"><span class="resource-title">{key}: </span>{str(value).title()}</p>\n'
 
 # def gen_res_page(category, long_desc, short_desc, df, paginate=False):
 
@@ -148,40 +151,38 @@ for category in category_desc.keys():
         body = body + '<div class="row">\n\t<div class="column">\n'
 
         # iterate over each row and generate one card
-        req_cols = ['Name of the Organisation/Contact Person','District','Location','Contact number','Verification  Status','Verification time','Availability Status']
+        req_cols = ['Name of the Organisation/Contact Person','District','Verification  Status', 'Location', 'Availability Status', 'Contact number','Verification time']
         for i,row in dis_sub_df.iterrows():
             if row['Availability Status'] == 'Available':
                 card_class = 'card_av'
             else:
                 card_class = 'card_nav'
 
-            body = body + f'<div class="{card_class}">\n'
+            body = body + f'<div class="{card_class}"><div class="head-and-copy">\n'
             copyText = ""
             if  str(row[req_cols[0]]).lower() not in  ['na', 'nan', 'unknown', 'not known', 'not available', MISSING_INFO.lower()]:
-                body = body + f'<h3>{str(row[req_cols[0]]).title()}</h3>\n\n'
+                body = body + f'<h3 class="card-head">{str(row[req_cols[0]]).title()}</h3>\n\n'
                 copyText = copyText + f"Name: {str(row[req_cols[0]]).title()}, "
-            body = body + '<div class="info"><table>\n'
+            copy_id = generate("abcdefghijklmnopqrstuvwxyz", 5)
+            body = body + f'<span id="{copy_id}" onclick="{get_function_syntax(req_cols, row, copy_id)}" class="copy-to-clip-board"><img src="https://pics.freeicons.io/uploads/icons/png/4498062351543238871-512.png" alt="copy" /></span>'
+            body += "</div>"
+            body = body + '<div class="info">\n'
             if category in ['oxygen', 'blood']:
-                body = body + f'<tr><th>Resource</th><th>{row["Facility provided"].title()}</th></tr>\n'
+                body = body + f'<p class="resource-info"><span class="resource-title">Resource</span>{row["Facility provided"].title()}</p>\n'
                 resource = row["Facility provided"].title()
                 copyText += f"ResourceInfo: {resource}, "
 
-            for c in req_cols[1:]:
+            for c in req_cols[1:len(req_cols) - 1]:
                 if c == 'Contact number':
                     contacts = str(row[c]).split(',')
-                    body = body + f'<tr><th>{c}</th><th>'
                     for contact in contacts:
-                        body = body + f'<a href="tel:{contact}">{contact}</a>'
+                        body = body + f'<p class="resource-info"><span class="resource-title">Contact: </span><a href="tel:{contact}">{contact}</a></p>\n'
                         copyText += f"Contact: {contact}, "
-                    body = body + '</th></tr>\n'
                 else:
                     body = body + getString(c, row[c]) #f'<tr><th>{c}</th><th>{row[c]}</th></tr>\n'
-            copy_id = generate("abcdefghijklmnopqrstuvwxyz", 5)
-            copy = f'<tr><th>Copy this Information</th><th><span id="{copy_id}" onclick="{get_function_syntax(copyText, copy_id)}" class="copy-to-clip-board">copy</span></th></tr>'
-            body += copy
-            body = body + '</table></div></div>\n'
+            body = body + f'</div>\n<div class="resource-time">{row[req_cols[len(req_cols) - 1]]}</div></div>'
 
-        footer = '</div>\n </div>'
+        footer = '</div>\n</div>\n'
 
         with open('res'+'_'+category+'_'+sel_district+'.markdown', 'w') as f:
             f.write(header+body+footer)

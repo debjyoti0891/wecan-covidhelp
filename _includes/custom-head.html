@@ -51,7 +51,10 @@ snippet. {% endcomment %}
   }
 
   function copyToClipboard(text, id) {
-    document.querySelector(`#${id}`).innerText = "copied!";
+    document.querySelector(`#${id}`).style.background = "#5ef345";
+    setTimeout(function () {
+      document.querySelector(`#${id}`).style.background = "lightgray";
+    }, 3000);
     let temp = document.createElement("textarea");
     document.body.appendChild(temp);
     temp.value = text;
@@ -62,6 +65,31 @@ snippet. {% endcomment %}
 </script>
 
 <style>
+    .head-and-copy {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 15px 0 10px 0;
+    }
+
+    .card-head {
+      font-weight: 700;
+      font-size: 1.1rem !important;
+      margin: 0 !important;
+    }
+
+    .copy-to-clip-board {
+      background-color: lightgray;
+      padding: 8px;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+
+    .copy-to-clip-board > img {
+      width: 15px;
+      height: 15px;
+    }
+
     .button0 {
       background-color: #4CAF50;
       border: none;
@@ -248,21 +276,43 @@ snippet. {% endcomment %}
 
 
   .card_av {
-    padding: 16px;
+    margin: 18px;
+    border-radius: 10px;
+    padding: 12px;
     text-align: center;
-    background-color: #bdfcd5;
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    border: 3px solid #bdfcd5;
+    box-shadow: 2px 1px 15px 1px rgb(170, 169, 170);
     font-family: 'Trebuchet MS', sans-serif;
     font-size: 12px;
   }
 
   .card_nav {
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-    padding: 16px;
+    margin: 18px;
+    border-radius: 10px;
+    box-shadow: 2px 1px 15px 1px rgb(170, 169, 170);
+    padding: 12px;
     text-align: center;
-    background-color: #e49e9e;
+    border: 3px solid #e49e9e;
     font-family: 'Trebuchet MS', sans-serif;
     font-size: 12px;
+  }
+
+  .resource-info {
+    width: 44%;
+    text-align: left;
+  }
+
+  .resource-title {
+    font-weight: 600;
+    margin-right: 8px;
+  }
+
+  .resource-time {
+    font-family: monospace;
+    font-size: 14px;
+    border-top: 1px solid lightgray;
+    padding: 5px;
+    text-align: right;
   }
 
   .text_highlight{
@@ -287,8 +337,10 @@ snippet. {% endcomment %}
   .info {
     /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
     padding: 2px;
-    text-align: left;
-    background-color: #f8f9fc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 10px;
   }
 
 
