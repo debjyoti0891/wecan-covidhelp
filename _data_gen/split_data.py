@@ -6,6 +6,7 @@ import re
 import numpy as np
 import humanize
 from nanoid import generate
+from datetime import datetime
 
 
 def get_function_syntax(req_cols, row, copy_id):
@@ -174,13 +175,17 @@ for category in category_desc.keys():
 
             for c in req_cols[1:len(req_cols) - 1]:
                 if c == 'Contact number':
+                    body = body + '<div class="resource-info"><span class="resource-title">Contact: </span>\n'
                     contacts = str(row[c]).split(',')
                     for contact in contacts:
-                        body = body + f'<p class="resource-info"><span class="resource-title">Contact: </span><a href="tel:{contact}">{contact}</a></p>\n'
+                        body += f'<div><a href="tel:{contact}">{contact}</a></div>\n'
                         copyText += f"Contact: {contact}, "
+                    body += "</div>\n"
+                elif c == "Verification  Status":
+                    continue
                 else:
                     body = body + getString(c, row[c]) #f'<tr><th>{c}</th><th>{row[c]}</th></tr>\n'
-            body = body + f'</div>\n<div class="resource-time">{row[req_cols[len(req_cols) - 1]]}</div></div>'
+            body = body + f'</div>\n<div class="resource-time">{row[req_cols[len(req_cols) - 1]]}<span class="card-verified"><img src="https://image.flaticon.com/icons/png/512/271/271257.png" alt="verified" /></span></div></div>'
 
         footer = '</div>\n</div>\n'
 
