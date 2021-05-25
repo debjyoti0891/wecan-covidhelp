@@ -1,4 +1,10 @@
 # WBCAN webpage
+### Update [May 25]
++ Merged changes from UI side
++ Copy button is now enabled
++ UI for cards cleaned up 
+
+
 ### Update [May 22]
 + Search bar added
 + Disclaimer updated
