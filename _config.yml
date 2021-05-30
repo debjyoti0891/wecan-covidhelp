@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,24 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  WBCAN
+title: WBCAN
 author:
-  disclaimer: /about/#disclaimer_id 
-  email: 
+  disclaimer: /about/#disclaimer_id
+  email:
   name: WBCAN Copyright © 2021
-tagline:  West Bengal Covid Aid Network (WBCAN)  
-description: >- 
-  Connecting verified resource information with patients in need. 
+tagline: West Bengal Covid Aid Network (WBCAN)
+description: >-
+  Connecting verified resource information with patients in need.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.wbcan.org" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
-    github:  "debjyoti0891/wecan-covidhelp"
+    github: "debjyoti0891/wecan-covidhelp"
     facebook: "groups/338484847687812/"
     instagram: "wbcan_covidresources"
     twitter: "WBCAN2"
-
 
 # Build settings
 theme: minima
@@ -48,18 +47,17 @@ disqus:
   shortname: bdebjyoti
 
 header_pages:
-  
   - resources.markdown
   - faq.markdown
   - contribute.markdown
   - about.markdown
+  - privacy.markdown
 
   # - oxygen.markdown
   # - beds.markdown
   # - blood.markdown
-  # - food.markdown  
+  # - food.markdown
 scholar:
-
   last_name: Bhattacharjee
   first_name: Debjyoti
 
@@ -72,7 +70,6 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bibtemplate
-
 
   replace_strings: true
   join_strings: true
@@ -92,9 +89,8 @@ social:
 
 logo: /wecan-covidhelp/assets/wbcan-logo.png
 webmaster_verifications:
- google: shmIemKrYpRAIcUmw2hZzRij1uySn9s55BGBbLBsOto
- bing: F0966E9DC4FDEE6F087ADCDD6E5F6743
-
+  google: shmIemKrYpRAIcUmw2hZzRij1uySn9s55BGBbLBsOto
+  bing: F0966E9DC4FDEE6F087ADCDD6E5F6743
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
