@@ -104,7 +104,7 @@ Debjyoti Bhattacharjee is a Research and Development engineer at Compute System 
             <p>If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
             <div class="btns">
                 <button onclick="acceptPrivacyPolicy()" class="privary-card-btn">Accept</button>
-                <a href="/privacy/"><button class="privary-card-btn">Learn More</button></a>
+                <a href="/about#privacy"><button class="privary-card-btn">Learn More</button></a>
             </div>
         </div>`
         document.querySelector(".wrapper").appendChild(privacyCard)
