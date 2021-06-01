@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteer
+title: Volunteer With Us
 permalink: /contribute/
 ---
 
