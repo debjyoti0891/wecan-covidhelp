@@ -1,4 +1,9 @@
 # WBCAN webpage
+
+### Update [June 1]
++ Privacy policy is now live
++ Renamed "Volunteer" to "Volunteer with Us"
+
 ### Update [May 25]
 + Merged changes from UI side
 + Copy button is now enabled
